@@ -4,7 +4,7 @@
   },
   "deploy": {
     "startCommand": "python fastapi_server.py",
-    "healthcheckPath": "/",
+    "healthcheckPath": "/health",
     "healthcheckTimeout": 100
   }
 }
