@@ -1,3 +1,41 @@
+# Web Scraping
+requests>=2.31.0
+selenium>=4.15.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Proxy Management
+fake-useragent>=1.4.0
+
+# Data Handling
+pandas>=2.1.0
+sqlalchemy>=2.0.0
+
+# Configuration
+python-dotenv>=1.0.0
+pydantic>=2.4.0
+pyyaml>=6.0.0
+
+# Async Support
+aiohttp>=3.8.0
+
+# Logging
+loguru>=0.7.0
+
+# Banking Keywords Detection
+nltk>=3.8.0
+
+# Rate Limiting
+ratelimiter>=1.2.0
+
+# Media Processing
+pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Development
+pytest>=7.4.0
+black>=23.9.0
+flake8>=6.0.0
 # Web Scraping Core
 requests>=2.31.0
 selenium>=4.15.0
@@ -21,26 +59,5 @@ python-dotenv>=1.0.0
 # Logging
 loguru>=0.7.0
 
-# Proxy Management
-fake-useragent>=1.4.0
-
-# Async Support
-aiohttp>=3.8.0
-
-# Banking Keywords Detection
-nltk>=3.8.0
-
-# Rate Limiting
-ratelimiter>=1.2.0
-
-# Media Processing
-pillow>=10.0.0
-opencv-python>=4.8.0
-
-# Development (optional)
-pytest>=7.4.0
-black>=23.9.0
-flake8>=6.0.0
-
-# Windows Specific (conditional)
+# Windows Specific
 pywin32>=306; sys_platform == "win32"
