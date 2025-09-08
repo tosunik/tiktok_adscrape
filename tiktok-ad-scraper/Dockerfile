@@ -1,6 +1,6 @@
 FROM python:3.11-slim
 
-# Chrome ve dependencies kur
+# Chrome kurulumu aynı kalacak...
 RUN apt-get update && apt-get install -y \
     wget \
     gnupg \
@@ -23,4 +23,4 @@ COPY . .
 
 EXPOSE 8000
 
-CMD ["python", "fastapi_server.py"]
+CMD ["sh", "-c", "uvicorn fastapi_server:app --host 0.0.0.0 --port ${PORT:-8000}"]
