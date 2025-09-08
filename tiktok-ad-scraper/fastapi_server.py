@@ -235,9 +235,16 @@ async def test_scrape():
         }
 
 if __name__ == "__main__":
-    # Create directories
-    for path in ["logs", "data/raw", "data/media", "data/processed"]:
-        Path(path).mkdir(parents=True, exist_ok=True)
+    # ... diğer kodlar ...
+    
+    port = int(os.getenv("PORT", 8000))
+    
+    uvicorn.run(
+        app,
+        host="0.0.0.0",
+        port=port,
+        log_level="info"
+    )
     
     # Setup logging
     logger.add("logs/fastapi.log", rotation="1 day", retention="30 days")
