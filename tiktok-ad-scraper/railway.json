@@ -3,7 +3,7 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "uvicorn fastapi_server:app --host 0.0.0.0 --port $PORT",
+    "startCommand": "python fastapi_server.py",
     "healthcheckPath": "/",
     "healthcheckTimeout": 100
   }
