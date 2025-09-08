@@ -1,3 +1,23 @@
+print("=== STARTING DEBUG ===")
+try:
+    print("Basic imports...")
+    from fastapi import FastAPI
+    print("FastAPI imported successfully")
+    
+    print("Testing Selenium import...")
+    from selenium import webdriver
+    print("Selenium imported successfully")
+    
+    print("Testing Chrome...")
+    from selenium.webdriver.chrome.options import Options
+    print("Chrome options imported successfully")
+    
+except Exception as e:
+    print(f"IMPORT ERROR: {e}")
+    import traceback
+    traceback.print_exc()
+
+print("=== DEBUG COMPLETE ===")
 #!/usr/bin/env python3
 """
 FastAPI server for TikTok scraper - N8N integration
