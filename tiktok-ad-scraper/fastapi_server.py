@@ -98,6 +98,17 @@ async def root():
         "status": "running",
         "endpoints": ["/health", "/scrape-tiktok", "/test-scrape", "/turkish-banks"]
     }
+@app.get("/test-selenium")
+async def test_selenium():
+    try:
+        from src.scraper.tiktok_selenium_scraper import TikTokSeleniumScraper
+        scraper = TikTokSeleniumScraper(headless=True)
+        success = scraper.setup_driver()
+        if success:
+            scraper.close_driver()
+        return {"selenium_works": success, "chrome_installed": True}
+    except Exception as e:
+        return {"selenium_works": False, "error": str(e), "chrome_installed": False}
 
 @app.get("/health")
 async def health_check():
