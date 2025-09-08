@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 8000
 
-CMD ["uvicorn", "fastapi_server:app", "--host", "0.0.0.0", "--port", "$PORT"]
+CMD ["uvicorn", "fastapi_server:app", "--host", "0.0.0.0", "--port", "8000"]
