@@ -1,0 +1,1052 @@
+2025-09-03 16:11:45 | INFO     | __main__:main:40 - 🚀 TikTok Ad Scraper başlatılıyor...
+2025-09-03 16:11:45 | INFO     | __main__:main:45 - Scraper oluşturuldu
+2025-09-03 16:11:45 | INFO     | __main__:main:49 - Arama anahtar kelimeleri: ['banka', 'kredi', 'kart', 'finans']
+2025-09-03 16:11:45 | INFO     | src.scraper.tiktok_scraper:search_ads:44 - TikTok Ad Library'de arama başlatılıyor: ['banka', 'kredi', 'kart', 'finans']
+2025-09-03 16:11:45 | INFO     | src.scraper.tiktok_scraper:search_ads:48 - Arama URL'i: https://library.tiktok.com/api/search?q=banka kredi kart finans&country=TR&type=all
+2025-09-03 16:11:45 | INFO     | src.scraper.tiktok_scraper:_make_request:119 - İstek gönderiliyor: https://library.tiktok.com/api/search?q=banka kredi kart finans&country=TR&type=all
+2025-09-03 16:11:46 | ERROR    | src.scraper.tiktok_scraper:_make_request:130 - HTTP hatası: 404
+2025-09-03 16:11:46 | ERROR    | __main__:main:101 - ❌ Beklenmeyen hata: unsupported format string passed to NoneType.__format__
+2025-09-03 16:18:58 | INFO     | __main__:main:40 - 🚀 TikTok Ad Scraper başlatılıyor...
+2025-09-03 16:18:58 | INFO     | __main__:main:45 - Scraper oluşturuldu
+2025-09-03 16:18:58 | INFO     | __main__:main:49 - Arama anahtar kelimeleri: ['banka', 'kredi', 'kart', 'finans']
+2025-09-03 16:18:58 | INFO     | src.scraper.tiktok_scraper:search_ads:41 - TikTok Ad Library'de arama başlatılıyor: ['banka', 'kredi', 'kart', 'finans']
+2025-09-03 16:18:58 | INFO     | src.scraper.tiktok_scraper:search_ads:46 - Mock data alındı: 4 reklam
+2025-09-03 16:18:59 | INFO     | src.scraper.tiktok_scraper:search_ads:76 - Scraping tamamlandı. Toplam: 4, Banking: 4
+2025-09-03 16:18:59 | INFO     | src.scraper.tiktok_scraper:save_results:177 - Sonuçlar kaydedildi: data\raw\tiktok_ads_20250903_161859.json
+2025-09-03 16:18:59 | INFO     | __main__:main:97 - ✅ Scraping başarıyla tamamlandı!
+2025-09-03 16:33:54 | INFO     | __main__:main:40 - 🚀 TikTok Ad Scraper başlatılıyor...
+2025-09-03 16:33:54 | INFO     | __main__:main:45 - Scraper oluşturuldu
+2025-09-03 16:33:54 | INFO     | __main__:main:49 - Arama anahtar kelimeleri: ['banka', 'kredi', 'kart', 'finans']
+2025-09-03 16:33:54 | INFO     | src.scraper.tiktok_scraper:search_ads:28 - Selenium ile TikTok scraping başlatılıyor...
+2025-09-03 16:34:11 | INFO     | src.scraper.tiktok_selenium_scraper:setup_driver:46 - Chrome WebDriver hazırlandı
+2025-09-03 16:34:11 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'garanti' reklamları aranıyor...
+2025-09-03 16:34:11 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754314451298&end_time=1756906451298&query_type=1&sort_type=last_shown_date,desc&adv_name=garanti
+2025-09-03 16:34:19 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 16:34:19 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 23 potansiyel reklam bulundu
+2025-09-03 16:34:19 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 23 reklam elementi bulundu
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 16:34:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 16:34:19 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'garanti' için 20 reklam bulundu
+2025-09-03 16:34:23 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'isbank' reklamları aranıyor...
+2025-09-03 16:34:23 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754314463464&end_time=1756906463464&query_type=1&sort_type=last_shown_date,desc&adv_name=isbank
+2025-09-03 16:34:29 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 16:34:29 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 60 potansiyel reklam bulundu
+2025-09-03 16:34:29 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 60 reklam elementi bulundu
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 16:34:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 16:34:29 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'isbank' için 20 reklam bulundu
+2025-09-03 16:34:32 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'yapikredi' reklamları aranıyor...
+2025-09-03 16:34:32 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754314472598&end_time=1756906472598&query_type=1&sort_type=last_shown_date,desc&adv_name=yapikredi
+2025-09-03 16:34:37 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 16:34:38 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 23 potansiyel reklam bulundu
+2025-09-03 16:34:38 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 23 reklam elementi bulundu
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 16:34:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 16:34:38 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'yapikredi' için 20 reklam bulundu
+2025-09-03 16:34:41 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'akbank' reklamları aranıyor...
+2025-09-03 16:34:41 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754314481970&end_time=1756906481970&query_type=1&sort_type=last_shown_date,desc&adv_name=akbank
+2025-09-03 16:34:47 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 16:34:47 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 60 potansiyel reklam bulundu
+2025-09-03 16:34:47 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 60 reklam elementi bulundu
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 16:34:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 16:34:47 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'akbank' için 20 reklam bulundu
+2025-09-03 16:34:51 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'halkbank' reklamları aranıyor...
+2025-09-03 16:34:51 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754314491318&end_time=1756906491318&query_type=1&sort_type=last_shown_date,desc&adv_name=halkbank
+2025-09-03 16:34:56 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 16:34:56 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 38 potansiyel reklam bulundu
+2025-09-03 16:34:56 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 38 reklam elementi bulundu
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 16:34:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 16:34:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 16:34:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 16:34:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 16:34:57 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'halkbank' için 20 reklam bulundu
+2025-09-03 16:35:00 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'vakifbank' reklamları aranıyor...
+2025-09-03 16:35:00 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754314500575&end_time=1756906500575&query_type=1&sort_type=last_shown_date,desc&adv_name=vakifbank
+2025-09-03 16:35:06 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 16:35:06 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 22 potansiyel reklam bulundu
+2025-09-03 16:35:06 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 22 reklam elementi bulundu
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 16:35:06 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 16:35:06 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'vakifbank' için 20 reklam bulundu
+2025-09-03 16:35:09 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'denizbank' reklamları aranıyor...
+2025-09-03 16:35:09 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754314509282&end_time=1756906509282&query_type=1&sort_type=last_shown_date,desc&adv_name=denizbank
+2025-09-03 16:35:14 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 16:35:14 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 60 potansiyel reklam bulundu
+2025-09-03 16:35:14 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 60 reklam elementi bulundu
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 16:35:14 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 16:35:14 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'denizbank' için 20 reklam bulundu
+2025-09-03 16:35:19 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ingbank' reklamları aranıyor...
+2025-09-03 16:35:19 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754314519250&end_time=1756906519250&query_type=1&sort_type=last_shown_date,desc&adv_name=ingbank
+2025-09-03 16:35:24 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 16:35:24 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 23 potansiyel reklam bulundu
+2025-09-03 16:35:24 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 23 reklam elementi bulundu
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 16:35:24 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 16:35:24 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ingbank' için 20 reklam bulundu
+2025-09-03 16:35:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'teb' reklamları aranıyor...
+2025-09-03 16:35:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754314527804&end_time=1756906527804&query_type=1&sort_type=last_shown_date,desc&adv_name=teb
+2025-09-03 16:35:33 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 16:35:33 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 60 potansiyel reklam bulundu
+2025-09-03 16:35:33 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 60 reklam elementi bulundu
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 16:35:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 16:35:33 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'teb' için 20 reklam bulundu
+2025-09-03 16:35:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'finansbank' reklamları aranıyor...
+2025-09-03 16:35:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754314537503&end_time=1756906537503&query_type=1&sort_type=last_shown_date,desc&adv_name=finansbank
+2025-09-03 16:35:42 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 16:35:42 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 22 potansiyel reklam bulundu
+2025-09-03 16:35:42 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 22 reklam elementi bulundu
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 16:35:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 16:35:42 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'finansbank' için 20 reklam bulundu
+2025-09-03 16:35:46 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:112 - Toplam 200 reklam scrape edildi
+2025-09-03 16:35:50 | INFO     | src.scraper.tiktok_selenium_scraper:close_driver:57 - WebDriver kapatıldı
+2025-09-03 16:35:50 | INFO     | src.scraper.tiktok_scraper:search_ads:33 - Raw data alındı: 200 reklam
+2025-09-03 16:35:50 | INFO     | src.scraper.tiktok_scraper:search_ads:58 - Scraping tamamlandı. Toplam: 200, Banking: 0
+2025-09-03 16:35:50 | INFO     | src.scraper.tiktok_scraper:save_results:204 - Sonuçlar kaydedildi: data\raw\tiktok_ads_20250903_163550.json
+2025-09-03 16:35:50 | INFO     | __main__:main:97 - ✅ Scraping başarıyla tamamlandı!
+2025-09-03 17:04:09 | INFO     | __main__:main:40 - 🚀 TikTok Ad Scraper başlatılıyor...
+2025-09-03 17:04:09 | INFO     | __main__:main:45 - Scraper oluşturuldu
+2025-09-03 17:04:09 | INFO     | __main__:main:49 - Arama anahtar kelimeleri: ['banka', 'kredi', 'kart', 'finans']
+2025-09-03 17:04:09 | INFO     | src.scraper.tiktok_scraper:search_ads:28 - Selenium ile TikTok scraping başlatılıyor...
+2025-09-03 17:04:13 | INFO     | src.scraper.tiktok_selenium_scraper:setup_driver:46 - Chrome WebDriver hazırlandı
+2025-09-03 17:04:13 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'garanti' reklamları aranıyor...
+2025-09-03 17:04:13 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754316253478&end_time=1756908253478&query_type=1&sort_type=last_shown_date,desc&adv_name=garanti
+2025-09-03 17:04:22 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 17:04:22 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 60 potansiyel reklam bulundu
+2025-09-03 17:04:22 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 60 reklam elementi bulundu
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 17:04:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 17:04:22 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'garanti' için 20 reklam bulundu
+2025-09-03 17:04:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'isbank' reklamları aranıyor...
+2025-09-03 17:04:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754316267444&end_time=1756908267444&query_type=1&sort_type=last_shown_date,desc&adv_name=isbank
+2025-09-03 17:04:32 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 17:04:32 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 60 potansiyel reklam bulundu
+2025-09-03 17:04:32 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 60 reklam elementi bulundu
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 17:04:32 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 17:04:32 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'isbank' için 20 reklam bulundu
+2025-09-03 17:04:36 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'yapikredi' reklamları aranıyor...
+2025-09-03 17:04:36 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754316276915&end_time=1756908276915&query_type=1&sort_type=last_shown_date,desc&adv_name=yapikredi
+2025-09-03 17:04:42 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 17:04:42 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 23 potansiyel reklam bulundu
+2025-09-03 17:04:42 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 23 reklam elementi bulundu
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 17:04:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 17:04:42 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'yapikredi' için 20 reklam bulundu
+2025-09-03 17:04:46 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'akbank' reklamları aranıyor...
+2025-09-03 17:04:46 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754316286334&end_time=1756908286334&query_type=1&sort_type=last_shown_date,desc&adv_name=akbank
+2025-09-03 17:04:52 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 17:04:52 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 60 potansiyel reklam bulundu
+2025-09-03 17:04:52 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 60 reklam elementi bulundu
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 17:04:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 17:04:52 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'akbank' için 20 reklam bulundu
+2025-09-03 17:04:55 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'halkbank' reklamları aranıyor...
+2025-09-03 17:04:55 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754316295556&end_time=1756908295556&query_type=1&sort_type=last_shown_date,desc&adv_name=halkbank
+2025-09-03 17:05:01 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 17:05:01 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 38 potansiyel reklam bulundu
+2025-09-03 17:05:01 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 38 reklam elementi bulundu
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 17:05:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 17:05:01 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'halkbank' için 20 reklam bulundu
+2025-09-03 17:05:04 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'vakifbank' reklamları aranıyor...
+2025-09-03 17:05:04 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754316304566&end_time=1756908304566&query_type=1&sort_type=last_shown_date,desc&adv_name=vakifbank
+2025-09-03 17:05:10 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 17:05:10 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 22 potansiyel reklam bulundu
+2025-09-03 17:05:10 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 22 reklam elementi bulundu
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 17:05:10 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 17:05:10 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'vakifbank' için 20 reklam bulundu
+2025-09-03 17:05:13 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'denizbank' reklamları aranıyor...
+2025-09-03 17:05:13 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754316313710&end_time=1756908313710&query_type=1&sort_type=last_shown_date,desc&adv_name=denizbank
+2025-09-03 17:05:19 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 17:05:19 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 60 potansiyel reklam bulundu
+2025-09-03 17:05:19 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 60 reklam elementi bulundu
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 17:05:19 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 17:05:19 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'denizbank' için 20 reklam bulundu
+2025-09-03 17:05:22 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ingbank' reklamları aranıyor...
+2025-09-03 17:05:22 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754316322460&end_time=1756908322460&query_type=1&sort_type=last_shown_date,desc&adv_name=ingbank
+2025-09-03 17:05:28 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 17:05:28 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 60 potansiyel reklam bulundu
+2025-09-03 17:05:28 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 60 reklam elementi bulundu
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 17:05:28 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 17:05:28 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ingbank' için 20 reklam bulundu
+2025-09-03 17:05:31 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'teb' reklamları aranıyor...
+2025-09-03 17:05:31 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754316331876&end_time=1756908331876&query_type=1&sort_type=last_shown_date,desc&adv_name=teb
+2025-09-03 17:05:37 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 17:05:37 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 60 potansiyel reklam bulundu
+2025-09-03 17:05:37 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 60 reklam elementi bulundu
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 17:05:37 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 17:05:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'teb' için 20 reklam bulundu
+2025-09-03 17:05:41 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'finansbank' reklamları aranıyor...
+2025-09-03 17:05:41 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754316341762&end_time=1756908341762&query_type=1&sort_type=last_shown_date,desc&adv_name=finansbank
+2025-09-03 17:05:47 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:194 - Sayfa yapısı analiz ediliyor...
+2025-09-03 17:05:47 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:209 - BeautifulSoup ile 22 potansiyel reklam bulundu
+2025-09-03 17:05:47 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 22 reklam elementi bulundu
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 0: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 1: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 2: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 3: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 4: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 5: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 6: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 7: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 8: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 9: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 10: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 12: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 13: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 14: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 15: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 16: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 17: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 18: Advertiser name bulunamadı
+2025-09-03 17:05:47 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:242 - Reklam 19: Advertiser name bulunamadı
+2025-09-03 17:05:47 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'finansbank' için 20 reklam bulundu
+2025-09-03 17:05:50 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:112 - Toplam 200 reklam scrape edildi
+2025-09-03 17:05:54 | INFO     | src.scraper.tiktok_selenium_scraper:close_driver:57 - WebDriver kapatıldı
+2025-09-03 17:05:54 | INFO     | src.scraper.tiktok_scraper:search_ads:33 - Raw data alındı: 200 reklam
+2025-09-03 17:05:54 | INFO     | src.scraper.tiktok_scraper:search_ads:58 - Scraping tamamlandı. Toplam: 200, Banking: 12
+2025-09-03 17:05:54 | INFO     | src.scraper.tiktok_scraper:save_results:204 - Sonuçlar kaydedildi: data\raw\tiktok_ads_20250903_170554.json
+2025-09-03 17:05:54 | INFO     | __main__:main:97 - ✅ Scraping başarıyla tamamlandı!
+2025-09-03 17:27:23 | INFO     | __main__:main:40 - 🚀 TikTok Ad Scraper başlatılıyor...
+2025-09-03 17:27:23 | INFO     | __main__:main:45 - Scraper oluşturuldu
+2025-09-03 17:27:23 | INFO     | __main__:main:49 - Arama anahtar kelimeleri: ['banka', 'kredi', 'kart', 'finans']
+2025-09-03 17:27:23 | INFO     | src.scraper.tiktok_scraper:search_ads:28 - Selenium ile TikTok scraping başlatılıyor...
+2025-09-03 17:27:27 | INFO     | src.scraper.tiktok_selenium_scraper:setup_driver:46 - Chrome WebDriver hazırlandı
+2025-09-03 17:27:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'garanti' reklamları aranıyor...
+2025-09-03 17:27:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317647093&end_time=1756909647093&query_type=1&sort_type=last_shown_date,desc&adv_name=garanti
+2025-09-03 17:27:33 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-03 17:27:33 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-03 17:27:34 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'garanti' için 12 reklam bulundu
+2025-09-03 17:27:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'isbank' reklamları aranıyor...
+2025-09-03 17:27:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317657580&end_time=1756909657580&query_type=1&sort_type=last_shown_date,desc&adv_name=isbank
+2025-09-03 17:27:43 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-03 17:27:43 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-03 17:27:43 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'isbank' için 12 reklam bulundu
+2025-09-03 17:27:47 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'yapikredi' reklamları aranıyor...
+2025-09-03 17:27:47 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317667400&end_time=1756909667400&query_type=1&sort_type=last_shown_date,desc&adv_name=yapikredi
+2025-09-03 17:27:52 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-03 17:27:52 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-03 17:27:53 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'yapikredi' için 12 reklam bulundu
+2025-09-03 17:27:57 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'akbank' reklamları aranıyor...
+2025-09-03 17:27:57 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317677322&end_time=1756909677322&query_type=1&sort_type=last_shown_date,desc&adv_name=akbank
+2025-09-03 17:28:02 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-03 17:28:02 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-03 17:28:03 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'akbank' için 12 reklam bulundu
+2025-09-03 17:28:07 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'halkbank' reklamları aranıyor...
+2025-09-03 17:28:07 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317687696&end_time=1756909687696&query_type=1&sort_type=last_shown_date,desc&adv_name=halkbank
+2025-09-03 17:28:13 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 5 adet (.ad_card)
+2025-09-03 17:28:13 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 5 reklam elementi bulundu
+2025-09-03 17:28:13 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'halkbank' için 5 reklam bulundu
+2025-09-03 17:28:17 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'vakifbank' reklamları aranıyor...
+2025-09-03 17:28:17 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317697828&end_time=1756909697828&query_type=1&sort_type=last_shown_date,desc&adv_name=vakifbank
+2025-09-03 17:28:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-03 17:28:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-03 17:28:23 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'vakifbank' için 0 reklam bulundu
+2025-09-03 17:28:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'denizbank' reklamları aranıyor...
+2025-09-03 17:28:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317707649&end_time=1756909707649&query_type=1&sort_type=last_shown_date,desc&adv_name=denizbank
+2025-09-03 17:28:33 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-03 17:28:33 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-03 17:28:33 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'denizbank' için 12 reklam bulundu
+2025-09-03 17:28:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ingbank' reklamları aranıyor...
+2025-09-03 17:28:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317717798&end_time=1756909717798&query_type=1&sort_type=last_shown_date,desc&adv_name=ingbank
+2025-09-03 17:28:43 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-03 17:28:43 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-03 17:28:44 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ingbank' için 12 reklam bulundu
+2025-09-03 17:28:48 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'teb' reklamları aranıyor...
+2025-09-03 17:28:48 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317728750&end_time=1756909728750&query_type=1&sort_type=last_shown_date,desc&adv_name=teb
+2025-09-03 17:28:54 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-03 17:28:54 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-03 17:28:54 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'teb' için 12 reklam bulundu
+2025-09-03 17:28:59 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'finansbank' reklamları aranıyor...
+2025-09-03 17:28:59 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317739018&end_time=1756909739018&query_type=1&sort_type=last_shown_date,desc&adv_name=finansbank
+2025-09-03 17:29:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-03 17:29:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-03 17:29:04 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'finansbank' için 0 reklam bulundu
+2025-09-03 17:29:07 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'kuveytturk' reklamları aranıyor...
+2025-09-03 17:29:07 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317747696&end_time=1756909747696&query_type=1&sort_type=last_shown_date,desc&adv_name=kuveytturk
+2025-09-03 17:29:13 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-03 17:29:13 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-03 17:29:13 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'kuveytturk' için 12 reklam bulundu
+2025-09-03 17:29:17 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'albaraka' reklamları aranıyor...
+2025-09-03 17:29:17 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317757546&end_time=1756909757546&query_type=1&sort_type=last_shown_date,desc&adv_name=albaraka
+2025-09-03 17:29:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-03 17:29:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-03 17:29:23 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'albaraka' için 0 reklam bulundu
+2025-09-03 17:29:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'papara' reklamları aranıyor...
+2025-09-03 17:29:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317767887&end_time=1756909767887&query_type=1&sort_type=last_shown_date,desc&adv_name=papara
+2025-09-03 17:29:33 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-03 17:29:33 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-03 17:29:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 11: Advertiser name bulunamadı
+2025-09-03 17:29:33 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'papara' için 12 reklam bulundu
+2025-09-03 17:29:38 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ininal' reklamları aranıyor...
+2025-09-03 17:29:38 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317778901&end_time=1756909778901&query_type=1&sort_type=last_shown_date,desc&adv_name=ininal
+2025-09-03 17:29:44 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-03 17:29:44 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-03 17:29:44 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ininal' için 0 reklam bulundu
+2025-09-03 17:29:48 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'tosla' reklamları aranıyor...
+2025-09-03 17:29:48 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317788850&end_time=1756909788850&query_type=1&sort_type=last_shown_date,desc&adv_name=tosla
+2025-09-03 17:29:54 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-03 17:29:54 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-03 17:29:54 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'tosla' için 0 reklam bulundu
+2025-09-03 17:29:57 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'param' reklamları aranıyor...
+2025-09-03 17:29:57 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317797811&end_time=1756909797811&query_type=1&sort_type=last_shown_date,desc&adv_name=param
+2025-09-03 17:30:03 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-03 17:30:03 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-03 17:30:03 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'param' için 12 reklam bulundu
+2025-09-03 17:30:06 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ziraat' reklamları aranıyor...
+2025-09-03 17:30:06 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317806892&end_time=1756909806892&query_type=1&sort_type=last_shown_date,desc&adv_name=ziraat
+2025-09-03 17:30:12 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 1 adet (.ad_card)
+2025-09-03 17:30:12 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 1 reklam elementi bulundu
+2025-09-03 17:30:12 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ziraat' için 1 reklam bulundu
+2025-09-03 17:30:16 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'enpara' reklamları aranıyor...
+2025-09-03 17:30:16 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754317816177&end_time=1756909816177&query_type=1&sort_type=last_shown_date,desc&adv_name=enpara
+2025-09-03 17:30:21 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-03 17:30:21 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-03 17:30:22 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'enpara' için 12 reklam bulundu
+2025-09-03 17:30:25 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:112 - Toplam 138 reklam scrape edildi
+2025-09-03 17:30:28 | INFO     | src.scraper.tiktok_selenium_scraper:close_driver:57 - WebDriver kapatıldı
+2025-09-03 17:30:28 | INFO     | src.scraper.tiktok_scraper:search_ads:33 - Raw data alındı: 138 reklam
+2025-09-03 17:30:28 | INFO     | src.scraper.tiktok_scraper:search_ads:58 - Scraping tamamlandı. Toplam: 138, Banking: 101
+2025-09-03 17:30:28 | INFO     | src.scraper.tiktok_scraper:save_results:204 - Sonuçlar kaydedildi: data\raw\tiktok_ads_20250903_173028.json
+2025-09-03 17:30:28 | INFO     | __main__:main:97 - ✅ Scraping başarıyla tamamlandı!
+2025-09-04 14:11:18 | INFO     | __main__:main:40 - 🚀 TikTok Ad Scraper başlatılıyor...
+2025-09-04 14:11:18 | INFO     | __main__:main:45 - Scraper oluşturuldu
+2025-09-04 14:11:18 | INFO     | __main__:main:49 - Arama anahtar kelimeleri: ['banka', 'kredi', 'kart', 'finans']
+2025-09-04 14:11:18 | INFO     | src.scraper.tiktok_scraper:search_ads:28 - Selenium ile TikTok scraping başlatılıyor...
+2025-09-04 14:11:22 | INFO     | src.scraper.tiktok_selenium_scraper:setup_driver:46 - Chrome WebDriver hazırlandı
+2025-09-04 14:11:22 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'garanti' reklamları aranıyor...
+2025-09-04 14:11:22 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392282551&end_time=1756984282551&query_type=1&sort_type=last_shown_date,desc&adv_name=garanti
+2025-09-04 14:11:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:11:29 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:11:29 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'garanti' için 0 reklam bulundu
+2025-09-04 14:11:33 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'isbank' reklamları aranıyor...
+2025-09-04 14:11:33 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392293155&end_time=1756984293155&query_type=1&sort_type=last_shown_date,desc&adv_name=isbank
+2025-09-04 14:11:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:11:38 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:11:38 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'isbank' için 0 reklam bulundu
+2025-09-04 14:11:43 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'yapikredi' reklamları aranıyor...
+2025-09-04 14:11:43 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392303248&end_time=1756984303248&query_type=1&sort_type=last_shown_date,desc&adv_name=yapikredi
+2025-09-04 14:11:48 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:11:48 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:11:48 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'yapikredi' için 0 reklam bulundu
+2025-09-04 14:11:52 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'akbank' reklamları aranıyor...
+2025-09-04 14:11:52 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392312356&end_time=1756984312356&query_type=1&sort_type=last_shown_date,desc&adv_name=akbank
+2025-09-04 14:11:57 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:11:57 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 0: Advertiser name bulunamadı
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 1: Advertiser name bulunamadı
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 2: Advertiser name bulunamadı
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 3: Advertiser name bulunamadı
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 4: Advertiser name bulunamadı
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 5: Advertiser name bulunamadı
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 6: Advertiser name bulunamadı
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 7: Advertiser name bulunamadı
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 8: Advertiser name bulunamadı
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 9: Advertiser name bulunamadı
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 10: Advertiser name bulunamadı
+2025-09-04 14:11:57 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 11: Advertiser name bulunamadı
+2025-09-04 14:11:57 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'akbank' için 12 reklam bulundu
+2025-09-04 14:12:01 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'halkbank' reklamları aranıyor...
+2025-09-04 14:12:01 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392321875&end_time=1756984321875&query_type=1&sort_type=last_shown_date,desc&adv_name=halkbank
+2025-09-04 14:12:07 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 5 adet (.ad_card)
+2025-09-04 14:12:07 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 5 reklam elementi bulundu
+2025-09-04 14:12:07 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 0: Advertiser name bulunamadı
+2025-09-04 14:12:07 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 1: Advertiser name bulunamadı
+2025-09-04 14:12:07 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 2: Advertiser name bulunamadı
+2025-09-04 14:12:07 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 3: Advertiser name bulunamadı
+2025-09-04 14:12:07 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 4: Advertiser name bulunamadı
+2025-09-04 14:12:07 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'halkbank' için 5 reklam bulundu
+2025-09-04 14:12:11 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'vakifbank' reklamları aranıyor...
+2025-09-04 14:12:11 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392331018&end_time=1756984331018&query_type=1&sort_type=last_shown_date,desc&adv_name=vakifbank
+2025-09-04 14:12:16 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:12:16 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:12:16 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'vakifbank' için 0 reklam bulundu
+2025-09-04 14:12:21 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'denizbank' reklamları aranıyor...
+2025-09-04 14:12:21 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392341376&end_time=1756984341376&query_type=1&sort_type=last_shown_date,desc&adv_name=denizbank
+2025-09-04 14:12:26 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:12:26 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 0: Advertiser name bulunamadı
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 1: Advertiser name bulunamadı
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 2: Advertiser name bulunamadı
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 3: Advertiser name bulunamadı
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 4: Advertiser name bulunamadı
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 5: Advertiser name bulunamadı
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 6: Advertiser name bulunamadı
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 7: Advertiser name bulunamadı
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 8: Advertiser name bulunamadı
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 9: Advertiser name bulunamadı
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 10: Advertiser name bulunamadı
+2025-09-04 14:12:26 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 11: Advertiser name bulunamadı
+2025-09-04 14:12:26 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'denizbank' için 12 reklam bulundu
+2025-09-04 14:12:30 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ingbank' reklamları aranıyor...
+2025-09-04 14:12:30 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392350912&end_time=1756984350912&query_type=1&sort_type=last_shown_date,desc&adv_name=ingbank
+2025-09-04 14:12:36 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:12:36 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:12:36 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ingbank' için 0 reklam bulundu
+2025-09-04 14:12:40 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'teb' reklamları aranıyor...
+2025-09-04 14:12:40 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392360767&end_time=1756984360767&query_type=1&sort_type=last_shown_date,desc&adv_name=teb
+2025-09-04 14:12:46 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:12:46 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 0: Advertiser name bulunamadı
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 1: Advertiser name bulunamadı
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 2: Advertiser name bulunamadı
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 3: Advertiser name bulunamadı
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 4: Advertiser name bulunamadı
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 5: Advertiser name bulunamadı
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 6: Advertiser name bulunamadı
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 7: Advertiser name bulunamadı
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 8: Advertiser name bulunamadı
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 9: Advertiser name bulunamadı
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 10: Advertiser name bulunamadı
+2025-09-04 14:12:46 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 11: Advertiser name bulunamadı
+2025-09-04 14:12:46 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'teb' için 12 reklam bulundu
+2025-09-04 14:12:50 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'finansbank' reklamları aranıyor...
+2025-09-04 14:12:50 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392370647&end_time=1756984370647&query_type=1&sort_type=last_shown_date,desc&adv_name=finansbank
+2025-09-04 14:12:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:12:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:12:56 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'finansbank' için 0 reklam bulundu
+2025-09-04 14:12:59 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'kuveytturk' reklamları aranıyor...
+2025-09-04 14:12:59 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392379340&end_time=1756984379340&query_type=1&sort_type=last_shown_date,desc&adv_name=kuveytturk
+2025-09-04 14:13:04 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:13:04 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 0: Advertiser name bulunamadı
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 1: Advertiser name bulunamadı
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 2: Advertiser name bulunamadı
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 3: Advertiser name bulunamadı
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 4: Advertiser name bulunamadı
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 5: Advertiser name bulunamadı
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 6: Advertiser name bulunamadı
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 7: Advertiser name bulunamadı
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 8: Advertiser name bulunamadı
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 9: Advertiser name bulunamadı
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 10: Advertiser name bulunamadı
+2025-09-04 14:13:04 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 11: Advertiser name bulunamadı
+2025-09-04 14:13:04 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'kuveytturk' için 12 reklam bulundu
+2025-09-04 14:13:08 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'albaraka' reklamları aranıyor...
+2025-09-04 14:13:08 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392388463&end_time=1756984388463&query_type=1&sort_type=last_shown_date,desc&adv_name=albaraka
+2025-09-04 14:13:13 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:13:13 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:13:13 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'albaraka' için 0 reklam bulundu
+2025-09-04 14:13:18 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'papara' reklamları aranıyor...
+2025-09-04 14:13:18 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392398190&end_time=1756984398190&query_type=1&sort_type=last_shown_date,desc&adv_name=papara
+2025-09-04 14:13:23 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:13:23 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 0: Advertiser name bulunamadı
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 1: Advertiser name bulunamadı
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 2: Advertiser name bulunamadı
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 3: Advertiser name bulunamadı
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 4: Advertiser name bulunamadı
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 5: Advertiser name bulunamadı
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 6: Advertiser name bulunamadı
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 7: Advertiser name bulunamadı
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 8: Advertiser name bulunamadı
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 9: Advertiser name bulunamadı
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 10: Advertiser name bulunamadı
+2025-09-04 14:13:23 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 11: Advertiser name bulunamadı
+2025-09-04 14:13:23 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'papara' için 12 reklam bulundu
+2025-09-04 14:13:28 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ininal' reklamları aranıyor...
+2025-09-04 14:13:28 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392408321&end_time=1756984408321&query_type=1&sort_type=last_shown_date,desc&adv_name=ininal
+2025-09-04 14:13:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:13:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:13:33 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ininal' için 0 reklam bulundu
+2025-09-04 14:13:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'tosla' reklamları aranıyor...
+2025-09-04 14:13:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392417541&end_time=1756984417541&query_type=1&sort_type=last_shown_date,desc&adv_name=tosla
+2025-09-04 14:13:42 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:13:42 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:13:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 0: Advertiser name bulunamadı
+2025-09-04 14:13:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 1: Advertiser name bulunamadı
+2025-09-04 14:13:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 2: Advertiser name bulunamadı
+2025-09-04 14:13:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 3: Advertiser name bulunamadı
+2025-09-04 14:13:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 4: Advertiser name bulunamadı
+2025-09-04 14:13:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 5: Advertiser name bulunamadı
+2025-09-04 14:13:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 6: Advertiser name bulunamadı
+2025-09-04 14:13:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 7: Advertiser name bulunamadı
+2025-09-04 14:13:43 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 8: Advertiser name bulunamadı
+2025-09-04 14:13:43 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 9: Advertiser name bulunamadı
+2025-09-04 14:13:43 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 10: Advertiser name bulunamadı
+2025-09-04 14:13:43 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 11: Advertiser name bulunamadı
+2025-09-04 14:13:43 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'tosla' için 12 reklam bulundu
+2025-09-04 14:13:46 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'param' reklamları aranıyor...
+2025-09-04 14:13:46 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392426956&end_time=1756984426956&query_type=1&sort_type=last_shown_date,desc&adv_name=param
+2025-09-04 14:13:52 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:13:52 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 0: Advertiser name bulunamadı
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 1: Advertiser name bulunamadı
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 2: Advertiser name bulunamadı
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 3: Advertiser name bulunamadı
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 4: Advertiser name bulunamadı
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 5: Advertiser name bulunamadı
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 6: Advertiser name bulunamadı
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 7: Advertiser name bulunamadı
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 8: Advertiser name bulunamadı
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 9: Advertiser name bulunamadı
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 10: Advertiser name bulunamadı
+2025-09-04 14:13:52 | WARNING  | src.scraper.tiktok_selenium_scraper:_extract_ad_data:218 - Reklam 11: Advertiser name bulunamadı
+2025-09-04 14:13:52 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'param' için 12 reklam bulundu
+2025-09-04 14:13:55 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ziraat' reklamları aranıyor...
+2025-09-04 14:13:55 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392435759&end_time=1756984435759&query_type=1&sort_type=last_shown_date,desc&adv_name=ziraat
+2025-09-04 14:14:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:14:01 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:14:01 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ziraat' için 0 reklam bulundu
+2025-09-04 14:14:05 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'enpara' reklamları aranıyor...
+2025-09-04 14:14:05 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754392445784&end_time=1756984445784&query_type=1&sort_type=last_shown_date,desc&adv_name=enpara
+2025-09-04 14:14:11 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:14:11 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:14:11 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'enpara' için 0 reklam bulundu
+2025-09-04 14:14:15 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:112 - Toplam 89 reklam scrape edildi
+2025-09-04 14:14:18 | INFO     | src.scraper.tiktok_selenium_scraper:close_driver:57 - WebDriver kapatıldı
+2025-09-04 14:14:18 | INFO     | src.scraper.tiktok_scraper:search_ads:33 - Raw data alındı: 89 reklam
+2025-09-04 14:14:18 | INFO     | src.scraper.tiktok_scraper:search_ads:58 - Scraping tamamlandı. Toplam: 89, Banking: 0
+2025-09-04 14:14:18 | INFO     | src.scraper.tiktok_scraper:save_results:204 - Sonuçlar kaydedildi: data\raw\tiktok_ads_20250904_141418.json
+2025-09-04 14:14:18 | INFO     | __main__:main:97 - ✅ Scraping başarıyla tamamlandı!
+2025-09-04 14:33:23 | INFO     | __main__:main:40 - 🚀 TikTok Ad Scraper başlatılıyor...
+2025-09-04 14:33:23 | INFO     | __main__:main:45 - Scraper oluşturuldu
+2025-09-04 14:33:23 | INFO     | __main__:main:49 - Arama anahtar kelimeleri: ['banka', 'kredi', 'kart', 'finans']
+2025-09-04 14:33:23 | INFO     | src.scraper.tiktok_scraper:search_ads:28 - Selenium ile TikTok scraping başlatılıyor...
+2025-09-04 14:33:27 | INFO     | src.scraper.tiktok_selenium_scraper:setup_driver:46 - Chrome WebDriver hazırlandı
+2025-09-04 14:33:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'garanti' reklamları aranıyor...
+2025-09-04 14:33:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393607350&end_time=1756985607350&query_type=1&sort_type=last_shown_date,desc&adv_name=garanti
+2025-09-04 14:33:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:33:33 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:33:33 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'garanti' için 0 reklam bulundu
+2025-09-04 14:33:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'isbank' reklamları aranıyor...
+2025-09-04 14:33:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393617015&end_time=1756985617015&query_type=1&sort_type=last_shown_date,desc&adv_name=isbank
+2025-09-04 14:33:42 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:33:42 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:33:42 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'isbank' için 12 reklam bulundu
+2025-09-04 14:33:47 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'yapikredi' reklamları aranıyor...
+2025-09-04 14:33:47 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393627500&end_time=1756985627500&query_type=1&sort_type=last_shown_date,desc&adv_name=yapikredi
+2025-09-04 14:33:53 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:33:53 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:33:53 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'yapikredi' için 0 reklam bulundu
+2025-09-04 14:33:57 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'akbank' reklamları aranıyor...
+2025-09-04 14:33:57 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393637974&end_time=1756985637974&query_type=1&sort_type=last_shown_date,desc&adv_name=akbank
+2025-09-04 14:34:03 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:34:03 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:34:03 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'akbank' için 12 reklam bulundu
+2025-09-04 14:34:07 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'halkbank' reklamları aranıyor...
+2025-09-04 14:34:07 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393647616&end_time=1756985647616&query_type=1&sort_type=last_shown_date,desc&adv_name=halkbank
+2025-09-04 14:34:12 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 5 adet (.ad_card)
+2025-09-04 14:34:12 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 5 reklam elementi bulundu
+2025-09-04 14:34:13 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'halkbank' için 5 reklam bulundu
+2025-09-04 14:34:16 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'vakifbank' reklamları aranıyor...
+2025-09-04 14:34:16 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393656918&end_time=1756985656918&query_type=1&sort_type=last_shown_date,desc&adv_name=vakifbank
+2025-09-04 14:34:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:34:22 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:34:22 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'vakifbank' için 0 reklam bulundu
+2025-09-04 14:34:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'denizbank' reklamları aranıyor...
+2025-09-04 14:34:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393667154&end_time=1756985667154&query_type=1&sort_type=last_shown_date,desc&adv_name=denizbank
+2025-09-04 14:34:32 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:34:32 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:34:33 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'denizbank' için 12 reklam bulundu
+2025-09-04 14:34:36 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ingbank' reklamları aranıyor...
+2025-09-04 14:34:36 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393676063&end_time=1756985676063&query_type=1&sort_type=last_shown_date,desc&adv_name=ingbank
+2025-09-04 14:34:41 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:34:41 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:34:41 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ingbank' için 0 reklam bulundu
+2025-09-04 14:34:45 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'teb' reklamları aranıyor...
+2025-09-04 14:34:45 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393685356&end_time=1756985685356&query_type=1&sort_type=last_shown_date,desc&adv_name=teb
+2025-09-04 14:34:50 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:34:50 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:34:51 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'teb' için 12 reklam bulundu
+2025-09-04 14:34:55 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'finansbank' reklamları aranıyor...
+2025-09-04 14:34:55 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393695108&end_time=1756985695108&query_type=1&sort_type=last_shown_date,desc&adv_name=finansbank
+2025-09-04 14:35:00 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:35:00 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:35:00 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'finansbank' için 0 reklam bulundu
+2025-09-04 14:35:05 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'kuveytturk' reklamları aranıyor...
+2025-09-04 14:35:05 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393705364&end_time=1756985705364&query_type=1&sort_type=last_shown_date,desc&adv_name=kuveytturk
+2025-09-04 14:35:10 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:35:10 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:35:11 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'kuveytturk' için 12 reklam bulundu
+2025-09-04 14:35:14 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'albaraka' reklamları aranıyor...
+2025-09-04 14:35:14 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393714853&end_time=1756985714853&query_type=1&sort_type=last_shown_date,desc&adv_name=albaraka
+2025-09-04 14:35:20 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:35:20 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:35:20 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'albaraka' için 0 reklam bulundu
+2025-09-04 14:35:25 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'papara' reklamları aranıyor...
+2025-09-04 14:35:25 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393725063&end_time=1756985725063&query_type=1&sort_type=last_shown_date,desc&adv_name=papara
+2025-09-04 14:35:30 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:35:30 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:35:30 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'papara' için 12 reklam bulundu
+2025-09-04 14:35:35 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ininal' reklamları aranıyor...
+2025-09-04 14:35:35 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393735287&end_time=1756985735287&query_type=1&sort_type=last_shown_date,desc&adv_name=ininal
+2025-09-04 14:35:40 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:35:40 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:35:40 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ininal' için 0 reklam bulundu
+2025-09-04 14:35:44 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'tosla' reklamları aranıyor...
+2025-09-04 14:35:44 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393744430&end_time=1756985744430&query_type=1&sort_type=last_shown_date,desc&adv_name=tosla
+2025-09-04 14:35:49 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:35:49 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:35:50 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'tosla' için 12 reklam bulundu
+2025-09-04 14:35:55 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'param' reklamları aranıyor...
+2025-09-04 14:35:55 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393755120&end_time=1756985755120&query_type=1&sort_type=last_shown_date,desc&adv_name=param
+2025-09-04 14:36:00 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:36:00 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:36:00 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'param' için 12 reklam bulundu
+2025-09-04 14:36:05 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ziraat' reklamları aranıyor...
+2025-09-04 14:36:05 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393765667&end_time=1756985765667&query_type=1&sort_type=last_shown_date,desc&adv_name=ziraat
+2025-09-04 14:36:11 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:36:11 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:36:11 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ziraat' için 0 reklam bulundu
+2025-09-04 14:36:15 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'enpara' reklamları aranıyor...
+2025-09-04 14:36:15 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754393775066&end_time=1756985775066&query_type=1&sort_type=last_shown_date,desc&adv_name=enpara
+2025-09-04 14:36:20 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:36:20 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:36:20 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'enpara' için 12 reklam bulundu
+2025-09-04 14:36:24 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:112 - Toplam 113 reklam scrape edildi
+2025-09-04 14:36:28 | INFO     | src.scraper.tiktok_selenium_scraper:close_driver:57 - WebDriver kapatıldı
+2025-09-04 14:36:28 | INFO     | src.scraper.tiktok_scraper:search_ads:33 - Raw data alındı: 113 reklam
+2025-09-04 14:36:28 | INFO     | src.scraper.tiktok_scraper:search_ads:58 - Scraping tamamlandı. Toplam: 113, Banking: 67
+2025-09-04 14:36:28 | INFO     | src.scraper.tiktok_scraper:save_results:204 - Sonuçlar kaydedildi: data\raw\tiktok_ads_20250904_143628.json
+2025-09-04 14:36:28 | INFO     | __main__:main:97 - ✅ Scraping başarıyla tamamlandı!
+2025-09-04 14:42:56 | INFO     | __main__:main:40 - 🚀 TikTok Ad Scraper başlatılıyor...
+2025-09-04 14:42:56 | INFO     | __main__:main:45 - Scraper oluşturuldu
+2025-09-04 14:42:56 | INFO     | __main__:main:49 - Arama anahtar kelimeleri: ['banka', 'kredi', 'kart', 'finans']
+2025-09-04 14:42:56 | INFO     | src.scraper.tiktok_scraper:search_ads:28 - Selenium ile TikTok scraping başlatılıyor...
+2025-09-04 14:42:59 | INFO     | src.scraper.tiktok_selenium_scraper:setup_driver:46 - Chrome WebDriver hazırlandı
+2025-09-04 14:42:59 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'garanti' reklamları aranıyor...
+2025-09-04 14:42:59 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394179763&end_time=1756986179763&query_type=1&sort_type=last_shown_date,desc&adv_name=garanti
+2025-09-04 14:43:05 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:43:05 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:43:06 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'garanti' için 12 reklam bulundu
+2025-09-04 14:43:11 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'isbank' reklamları aranıyor...
+2025-09-04 14:43:11 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394191045&end_time=1756986191045&query_type=1&sort_type=last_shown_date,desc&adv_name=isbank
+2025-09-04 14:43:16 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:43:16 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:43:16 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'isbank' için 12 reklam bulundu
+2025-09-04 14:43:21 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'yapikredi' reklamları aranıyor...
+2025-09-04 14:43:21 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394201472&end_time=1756986201472&query_type=1&sort_type=last_shown_date,desc&adv_name=yapikredi
+2025-09-04 14:43:27 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:43:27 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:43:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'yapikredi' için 12 reklam bulundu
+2025-09-04 14:43:32 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'akbank' reklamları aranıyor...
+2025-09-04 14:43:32 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394212100&end_time=1756986212100&query_type=1&sort_type=last_shown_date,desc&adv_name=akbank
+2025-09-04 14:43:37 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:43:37 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:43:37 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'akbank' için 12 reklam bulundu
+2025-09-04 14:43:41 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'halkbank' reklamları aranıyor...
+2025-09-04 14:43:41 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394221241&end_time=1756986221241&query_type=1&sort_type=last_shown_date,desc&adv_name=halkbank
+2025-09-04 14:43:46 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 5 adet (.ad_card)
+2025-09-04 14:43:46 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 5 reklam elementi bulundu
+2025-09-04 14:43:46 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'halkbank' için 5 reklam bulundu
+2025-09-04 14:43:50 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'vakifbank' reklamları aranıyor...
+2025-09-04 14:43:50 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394230558&end_time=1756986230558&query_type=1&sort_type=last_shown_date,desc&adv_name=vakifbank
+2025-09-04 14:43:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:43:56 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:43:56 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'vakifbank' için 0 reklam bulundu
+2025-09-04 14:43:59 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'denizbank' reklamları aranıyor...
+2025-09-04 14:43:59 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394239645&end_time=1756986239645&query_type=1&sort_type=last_shown_date,desc&adv_name=denizbank
+2025-09-04 14:44:05 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:44:05 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:44:05 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'denizbank' için 12 reklam bulundu
+2025-09-04 14:44:10 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ingbank' reklamları aranıyor...
+2025-09-04 14:44:10 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394250117&end_time=1756986250117&query_type=1&sort_type=last_shown_date,desc&adv_name=ingbank
+2025-09-04 14:44:15 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:44:15 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:44:15 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ingbank' için 12 reklam bulundu
+2025-09-04 14:44:20 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'teb' reklamları aranıyor...
+2025-09-04 14:44:20 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394260036&end_time=1756986260036&query_type=1&sort_type=last_shown_date,desc&adv_name=teb
+2025-09-04 14:44:25 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:44:25 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:44:26 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'teb' için 12 reklam bulundu
+2025-09-04 14:44:29 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'finansbank' reklamları aranıyor...
+2025-09-04 14:44:29 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394269552&end_time=1756986269552&query_type=1&sort_type=last_shown_date,desc&adv_name=finansbank
+2025-09-04 14:44:34 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:44:34 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:44:34 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'finansbank' için 0 reklam bulundu
+2025-09-04 14:44:38 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'kuveytturk' reklamları aranıyor...
+2025-09-04 14:44:38 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394278351&end_time=1756986278351&query_type=1&sort_type=last_shown_date,desc&adv_name=kuveytturk
+2025-09-04 14:44:43 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:44:43 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:44:44 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'kuveytturk' için 12 reklam bulundu
+2025-09-04 14:44:48 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'albaraka' reklamları aranıyor...
+2025-09-04 14:44:48 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394288050&end_time=1756986288050&query_type=1&sort_type=last_shown_date,desc&adv_name=albaraka
+2025-09-04 14:44:53 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:44:53 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:44:53 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'albaraka' için 0 reklam bulundu
+2025-09-04 14:44:58 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'papara' reklamları aranıyor...
+2025-09-04 14:44:58 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394298380&end_time=1756986298380&query_type=1&sort_type=last_shown_date,desc&adv_name=papara
+2025-09-04 14:45:03 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:45:03 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:45:04 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'papara' için 12 reklam bulundu
+2025-09-04 14:45:08 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ininal' reklamları aranıyor...
+2025-09-04 14:45:08 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394308435&end_time=1756986308435&query_type=1&sort_type=last_shown_date,desc&adv_name=ininal
+2025-09-04 14:45:13 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:45:13 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:45:14 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ininal' için 12 reklam bulundu
+2025-09-04 14:45:18 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'tosla' reklamları aranıyor...
+2025-09-04 14:45:18 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394318455&end_time=1756986318455&query_type=1&sort_type=last_shown_date,desc&adv_name=tosla
+2025-09-04 14:45:23 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:45:23 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:45:24 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'tosla' için 12 reklam bulundu
+2025-09-04 14:45:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'param' reklamları aranıyor...
+2025-09-04 14:45:27 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394327334&end_time=1756986327334&query_type=1&sort_type=last_shown_date,desc&adv_name=param
+2025-09-04 14:45:32 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:45:32 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:45:33 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'param' için 12 reklam bulundu
+2025-09-04 14:45:36 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'ziraat' reklamları aranıyor...
+2025-09-04 14:45:36 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394336687&end_time=1756986336687&query_type=1&sort_type=last_shown_date,desc&adv_name=ziraat
+2025-09-04 14:45:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_find_ad_elements:187 - Hiçbir .ad_card elementi bulunamadı
+2025-09-04 14:45:42 | WARNING  | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:153 - Reklam bulunamadı, sayfa yapısı değişmiş olabilir
+2025-09-04 14:45:42 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'ziraat' için 0 reklam bulundu
+2025-09-04 14:45:46 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:96 - 'enpara' reklamları aranıyor...
+2025-09-04 14:45:46 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:99 - URL: https://library.tiktok.com/ads?region=TR&start_time=1754394346402&end_time=1756986346402&query_type=1&sort_type=last_shown_date,desc&adv_name=enpara
+2025-09-04 14:45:51 | INFO     | src.scraper.tiktok_selenium_scraper:_find_ad_elements:184 - TikTok reklam kartları bulundu: 12 adet (.ad_card)
+2025-09-04 14:45:51 | INFO     | src.scraper.tiktok_selenium_scraper:_scrape_ads_from_url:156 - 12 reklam elementi bulundu
+2025-09-04 14:45:52 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:104 - 'enpara' için 12 reklam bulundu
+2025-09-04 14:45:55 | INFO     | src.scraper.tiktok_selenium_scraper:search_ads_by_advertiser:112 - Toplam 161 reklam scrape edildi
+2025-09-04 14:45:59 | INFO     | src.scraper.tiktok_selenium_scraper:close_driver:57 - WebDriver kapatıldı
+2025-09-04 14:45:59 | INFO     | src.scraper.tiktok_scraper:search_ads:33 - Raw data alındı: 161 reklam
+2025-09-04 14:45:59 | INFO     | src.scraper.tiktok_scraper:search_ads:58 - Scraping tamamlandı. Toplam: 161, Banking: 103
+2025-09-04 14:45:59 | INFO     | src.scraper.tiktok_scraper:save_results:212 - Sonuçlar kaydedildi: data\raw\tiktok_ads_20250904_144559.json
+2025-09-04 14:45:59 | INFO     | __main__:main:97 - ✅ Scraping başarıyla tamamlandı!

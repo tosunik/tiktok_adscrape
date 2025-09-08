@@ -1,0 +1,4773 @@
+[
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "HANGISI INTERNET VE BILGI HIZMETLERI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad HANGISI INTERNET VE BILGI HIZMETLERI ANONIM SIRKETI First shown:08/25/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oc5r0Ds8IAgNc9AGfDXEvre8GEPbAKFOPZCkhf"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.942751",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:27:33.931671",
+      "advertiser_name": "HANGISI INTERNET VE BILGI HIZMETLERI ANONIM SIRKETI",
+      "ad_text": "Ad HANGISI INTERNET VE BILGI HIZMETLERI ANONIM SIRKETI First shown:08/25/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oc5r0Ds8IAgNc9AGfDXEvre8GEPbAKFOPZCkhf"
+      ],
+      "ad_url": "",
+      "first_shown": "08/25/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841426015282434",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oo9eoRKufACwAQDfGDA2A9IApFbpUbCcOgEEDy"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.942751",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:27:34.035940",
+      "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oo9eoRKufACwAQDfGDA2A9IApFbpUbCcOgEEDy"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842137111179281",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oA9BXADYFi3ltLtcPNegAB0DwkVIQQCfgopOYE"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.942751",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:27:34.081951",
+      "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oA9BXADYFi3ltLtcPNegAB0DwkVIQQCfgopOYE"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842137035565329",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUAWGMAiAEeAr2lIfgifFF8iCDaQV7Etq03flA"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.942751",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:27:34.127961",
+      "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUAWGMAiAEeAr2lIfgifFF8iCDaQV7Etq03flA"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842055256284210",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/og2D8GvSAJfgFEmhAwAsgyenQFl4fCJPSAYhMf"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.942751",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:27:34.171971",
+      "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/og2D8GvSAJfgFEmhAwAsgyenQFl4fCJPSAYhMf"
+      ],
+      "ad_url": "",
+      "first_shown": "08/26/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841493537816786",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_5_1756909828",
+    "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/717da480966941588e8174cdf26ce1ba_1755589386"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.942751",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 5,
+      "scraped_at": "2025-09-03T17:27:34.225983",
+      "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/717da480966941588e8174cdf26ce1ba_1755589386"
+      ],
+      "ad_url": "",
+      "first_shown": "08/31/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841916827568162",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_6_1756909828",
+    "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ow0Gl1WugQMe1wGANQ8A8nQeQwgkbeFDgKcCSC"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.942751",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 6,
+      "scraped_at": "2025-09-03T17:27:34.270994",
+      "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ow0Gl1WugQMe1wGANQ8A8nQeQwgkbeFDgKcCSC"
+      ],
+      "ad_url": "",
+      "first_shown": "08/31/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841916808682498",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_7_1756909828",
+    "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oQlQVgxhVUvzkFpiA4pQc8YOBAIaAiz6sAoAE"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 7,
+      "scraped_at": "2025-09-03T17:27:34.315003",
+      "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oQlQVgxhVUvzkFpiA4pQc8YOBAIaAiz6sAoAE"
+      ],
+      "ad_url": "",
+      "first_shown": "08/31/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841916808675362",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_8_1756909828",
+    "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEaAA3FJV4BFiKBE20VG4A8qzRdIAPiYpU3pY"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 8,
+      "scraped_at": "2025-09-03T17:27:34.359014",
+      "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEaAA3FJV4BFiKBE20VG4A8qzRdIAPiYpU3pY"
+      ],
+      "ad_url": "",
+      "first_shown": "08/26/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841493537823922",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_9_1756909828",
+    "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osBFAca7ZFfE3DnBInEDv6fkQo13gOmqBQui4N"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 9,
+      "scraped_at": "2025-09-03T17:27:34.402023",
+      "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osBFAca7ZFfE3DnBInEDv6fkQo13gOmqBQui4N"
+      ],
+      "ad_url": "",
+      "first_shown": "08/26/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841493537987985",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_10_1756909828",
+    "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/og2D8GvSAJfgFEmhAwAsgyenQFl4fCJPSAYhMf"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 10,
+      "scraped_at": "2025-09-03T17:27:34.446033",
+      "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/og2D8GvSAJfgFEmhAwAsgyenQFl4fCJPSAYhMf"
+      ],
+      "ad_url": "",
+      "first_shown": "08/26/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841493538011233",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_11_1756909828",
+    "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUVIniVcBDeQIQPCtCF6gpQENAzxC1hfDpBozX"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 11,
+      "scraped_at": "2025-09-03T17:27:34.491044",
+      "advertiser_name": "TURKIYE GARANTI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad TURKIYE GARANTI BANKASI ANONIM SIRKETI First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUVIniVcBDeQIQPCtCF6gpQENAzxC1hfDpBozX"
+      ],
+      "ad_url": "",
+      "first_shown": "08/26/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841493538020545",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:08/19/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0xEGFeGAEfB2tcMHRifYzbRzFdAUIb1LAWfIA"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:27:43.052843",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:08/19/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0xEGFeGAEfB2tcMHRifYzbRzFdAUIb1LAWfIA"
+      ],
+      "ad_url": "",
+      "first_shown": "08/19/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840877747121298",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:08/15/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUk0IDALrInYEbCAUJGKoOQa9woTGegCgeURep"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:27:43.100854",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:08/15/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUk0IDALrInYEbCAUJGKoOQa9woTGegCgeURep"
+      ],
+      "ad_url": "",
+      "first_shown": "08/15/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840522068487634",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/29/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oAOLIgc4eDADhmA0H4FlDbRDlGxAHCeYQNfljE"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:27:43.161868",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/29/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oAOLIgc4eDADhmA0H4FlDbRDlGxAHCeYQNfljE"
+      ],
+      "ad_url": "",
+      "first_shown": "08/29/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841803247597570",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooQDMN52EWxAIlFgoS3A1oqfGJeNBADt2EBbEa"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:27:43.204878",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooQDMN52EWxAIlFgoS3A1oqfGJeNBADt2EBbEa"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163876380673",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owCWoEAIBoOE1Ao0wifgArAsIiPxN0ABYz6ml2"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:27:43.247887",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owCWoEAIBoOE1Ao0wifgArAsIiPxN0ABYz6ml2"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163843425362",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_5_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUuK2BDEiNi1AFFfBw62Eo0aoWmBWAItiI7AAC"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 5,
+      "scraped_at": "2025-09-03T17:27:43.291897",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUuK2BDEiNi1AFFfBw62Eo0aoWmBWAItiI7AAC"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163712470017",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_6_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8V1IBWqIAojPYABzAoicrCNOESmw7iQ02AxZf"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 6,
+      "scraped_at": "2025-09-03T17:27:43.334907",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8V1IBWqIAojPYABzAoicrCNOESmw7iQ02AxZf"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163637497889",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_7_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oIqQUAZmR1DQH8vtC1FEAEDfGbAbex2QI7fQgU"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 7,
+      "scraped_at": "2025-09-03T17:27:43.378916",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oIqQUAZmR1DQH8vtC1FEAEDfGbAbex2QI7fQgU"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163601048609",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_8_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osnDFCylTGg251ftIAZeEfCYgPbQRQAgJDdbA6"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 8,
+      "scraped_at": "2025-09-03T17:27:43.422927",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osnDFCylTGg251ftIAZeEfCYgPbQRQAgJDdbA6"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163499643937",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_9_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYAEAmA7XRiXEKYoazxUdvi2Ix2vLaayA4BYb"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 9,
+      "scraped_at": "2025-09-03T17:27:43.466939",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYAEAmA7XRiXEKYoazxUdvi2Ix2vLaayA4BYb"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163340400818",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_10_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osUaaE4YwmAIAiUa9LaUzaPiUmkiB0aAN22EA"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 10,
+      "scraped_at": "2025-09-03T17:27:43.509947",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osUaaE4YwmAIAiUa9LaUzaPiUmkiB0aAN22EA"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163268945954",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_11_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYfGEtFbnID8frAAQ8sAf1EgRtQtbWrDgbFTNC"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 11,
+      "scraped_at": "2025-09-03T17:27:43.552956",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYfGEtFbnID8frAAQ8sAf1EgRtQtbWrDgbFTNC"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163158773985",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:08/20/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocAHBD3oQEcAqN0Id7lfBF1p2D51CdEfLMlhmg"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:27:52.776644",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:08/20/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocAHBD3oQEcAqN0Id7lfBF1p2D51CdEfLMlhmg"
+      ],
+      "ad_url": "",
+      "first_shown": "08/20/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840984553874466",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:08/20/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8pIgEfANdtEoA1flrLp6d3MYI1DDBFcQv1BGb"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:27:52.824654",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:08/20/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8pIgEfANdtEoA1flrLp6d3MYI1DDBFcQv1BGb"
+      ],
+      "ad_url": "",
+      "first_shown": "08/20/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840984714181698",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMCmAqfbUXrlvGdHQRQMbV8cg5eeAR9mDgbbpb"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:27:52.868664",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMCmAqfbUXrlvGdHQRQMbV8cg5eeAR9mDgbbpb"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842157989988353",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEeDBNFtJIDws9EAqKNgfhE6otQgNkVBQubu1B"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:27:52.913675",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEeDBNFtJIDws9EAqKNgfhE6otQgNkVBQubu1B"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842157635657746",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocma1ziIEAw01CWfl6io2QaL3pUDqBAkBA3mD4"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:27:52.974688",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocma1ziIEAw01CWfl6io2QaL3pUDqBAkBA3mD4"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842157631018290",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_5_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMCmAqfbUXrlvGdHQRQMbV8cg5eeAR9mDgbbpb"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 5,
+      "scraped_at": "2025-09-03T17:27:53.018698",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMCmAqfbUXrlvGdHQRQMbV8cg5eeAR9mDgbbpb"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842157631011858",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_6_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEeDBNFtJIDws9EAqKNgfhE6otQgNkVBQubu1B"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 6,
+      "scraped_at": "2025-09-03T17:27:53.061708",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEeDBNFtJIDws9EAqKNgfhE6otQgNkVBQubu1B"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842157990001665",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_7_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:08/15/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocExIEBZNaseAbBmhijkfvNW9X8Dci6gQTL8Bd"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 7,
+      "scraped_at": "2025-09-03T17:27:53.106717",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:08/15/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocExIEBZNaseAbBmhijkfvNW9X8Dci6gQTL8Bd"
+      ],
+      "ad_url": "",
+      "first_shown": "08/15/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840522322318354",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_8_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:08/15/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocExIEBZNaseAbBmhijkfvNW9X8Dci6gQTL8Bd"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 8,
+      "scraped_at": "2025-09-03T17:27:53.149727",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:08/15/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocExIEBZNaseAbBmhijkfvNW9X8Dci6gQTL8Bd"
+      ],
+      "ad_url": "",
+      "first_shown": "08/15/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840521415830562",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_9_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 9,
+      "scraped_at": "2025-09-03T17:27:53.193737",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842192903418881"
+    }
+  },
+  {
+    "ad_id": "selenium_10_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 10,
+      "scraped_at": "2025-09-03T17:27:53.235746",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842192889127986"
+    }
+  },
+  {
+    "ad_id": "selenium_11_1756909828",
+    "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 11,
+      "scraped_at": "2025-09-03T17:27:53.277756",
+      "advertiser_name": "YAPI VE KREDI BANKASI ANONIM SIRKETI",
+      "ad_text": "Ad YAPI VE KREDI BANKASI ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842159452337458"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:08/28/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4KAAzPCR3UN6IYLEAEUiwBKmB52aiLNABswi"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:28:02.733576",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:08/28/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4KAAzPCR3UN6IYLEAEUiwBKmB52aiLNABswi"
+      ],
+      "ad_url": "",
+      "first_shown": "08/28/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841697118297105",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUa2HhwWfAEy3s2IABm0ciA89iAoiBn083WIC9"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:28:02.781586",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUa2HhwWfAEy3s2IABm0ciA89iAoiBn083WIC9"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842162215044113",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:08/18/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/f3b3d0aff1a400f98c32faea2daf801a"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:28:02.826596",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:08/18/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/f3b3d0aff1a400f98c32faea2daf801a"
+      ],
+      "ad_url": "",
+      "first_shown": "08/18/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840796978828338",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUa2HhwWfAEy3s2IABm0ciA89iAoiBn083WIC9"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:28:02.869606",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUa2HhwWfAEy3s2IABm0ciA89iAoiBn083WIC9"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842187773332786",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osiBAWHoqIA3rOUB6B9s2fAo4wi0jAB60EQmmi"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:28:02.914617",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osiBAWHoqIA3rOUB6B9s2fAo4wi0jAB60EQmmi"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842187773326418",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_5_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMiDEfv2VgnNDKWIAToEAOBQ9BtFESNioGYekO"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 5,
+      "scraped_at": "2025-09-03T17:28:02.958627",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMiDEfv2VgnNDKWIAToEAOBQ9BtFESNioGYekO"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842187773319218",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_6_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUa2HhwWfAEy3s2IABm0ciA89iAoiBn083WIC9"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 6,
+      "scraped_at": "2025-09-03T17:28:03.002637",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUa2HhwWfAEy3s2IABm0ciA89iAoiBn083WIC9"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842187750276146",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_7_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osiBAWHoqIA3rOUB6B9s2fAo4wi0jAB60EQmmi"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 7,
+      "scraped_at": "2025-09-03T17:28:03.046647",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osiBAWHoqIA3rOUB6B9s2fAo4wi0jAB60EQmmi"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842187732186129",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_8_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMiDEfv2VgnNDKWIAToEAOBQ9BtFESNioGYekO"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 8,
+      "scraped_at": "2025-09-03T17:28:03.100658",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMiDEfv2VgnNDKWIAToEAOBQ9BtFESNioGYekO"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842187732178993",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_9_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMiDEfv2VgnNDKWIAToEAOBQ9BtFESNioGYekO"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 9,
+      "scraped_at": "2025-09-03T17:28:03.144668",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMiDEfv2VgnNDKWIAToEAOBQ9BtFESNioGYekO"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842162219126961",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_10_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMiDEfv2VgnNDKWIAToEAOBQ9BtFESNioGYekO"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 10,
+      "scraped_at": "2025-09-03T17:28:03.189678",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMiDEfv2VgnNDKWIAToEAOBQ9BtFESNioGYekO"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842162219119633",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_11_1756909828",
+    "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUa2HhwWfAEy3s2IABm0ciA89iAoiBn083WIC9"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 11,
+      "scraped_at": "2025-09-03T17:28:03.233689",
+      "advertiser_name": "AKBANK TURK ANONIM SIRKETI",
+      "ad_text": "Ad AKBANK TURK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUa2HhwWfAEy3s2IABm0ciA89iAoiBn083WIC9"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842162219113521",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "halifuari.sincan",
+    "advertiser_id": null,
+    "ad_text": "Ad halifuari.sincan First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oUBsAsC0MaipECPmWERXHvi5Iy1vLayYA1BYw~tplv-noop.image?t=9276707c&x-expires=1756931308&x-signature=4umUg6aPDRw5A6AZEH4YoGUz2yg%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.943749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:28:13.556085",
+      "advertiser_name": "halifuari.sincan",
+      "ad_text": "Ad halifuari.sincan First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oUBsAsC0MaipECPmWERXHvi5Iy1vLayYA1BYw~tplv-noop.image?t=9276707c&x-expires=1756931308&x-signature=4umUg6aPDRw5A6AZEH4YoGUz2yg%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842073947713553",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "asiminz",
+    "advertiser_id": null,
+    "ad_text": "Ad asiminz First shown:08/27/2025 Last shown:08/28/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oYgBFxozCuRXEUlEFtAdXIQDdgfUr3LBARfGQk~tplv-noop.image?t=9276707c&x-expires=1756931317&x-signature=4j%2BRczZTnA82ji4bmPs6lRKf1DY%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:28:13.607096",
+      "advertiser_name": "asiminz",
+      "ad_text": "Ad asiminz First shown:08/27/2025 Last shown:08/28/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oYgBFxozCuRXEUlEFtAdXIQDdgfUr3LBARfGQk~tplv-noop.image?t=9276707c&x-expires=1756931317&x-signature=4j%2BRczZTnA82ji4bmPs6lRKf1DY%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/27/2025",
+      "last_shown": "08/28/2025",
+      "reach": "-",
+      "ad_id": "1841603831929874",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "sahinogur",
+    "advertiser_id": null,
+    "ad_text": "Ad sahinogur First shown:08/16/2025 Last shown:08/17/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oM3F4NghfAQ7wLe3GDRoB6BuEEBUFEWYMRaQRp~tplv-noop.image?t=9276707c&x-expires=1756931304&x-signature=sSUAKVgEbp0wU5L53RaJ%2FBwoEyg%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:28:13.655107",
+      "advertiser_name": "sahinogur",
+      "ad_text": "Ad sahinogur First shown:08/16/2025 Last shown:08/17/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oM3F4NghfAQ7wLe3GDRoB6BuEEBUFEWYMRaQRp~tplv-noop.image?t=9276707c&x-expires=1756931304&x-signature=sSUAKVgEbp0wU5L53RaJ%2FBwoEyg%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/16/2025",
+      "last_shown": "08/17/2025",
+      "reach": "-",
+      "ad_id": "1840644790174738",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "myshopkozmetik",
+    "advertiser_id": null,
+    "ad_text": "Ad myshopkozmetik First shown:08/14/2025 Last shown:08/17/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owABFAE9VJ9iaP4BAYAmN8bNIPDEaCywslqoi~tplv-noop.image?t=9276707c&x-expires=1756931302&x-signature=gRIrFEHvcvAU1fADNGqncuZH9eo%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:28:13.703118",
+      "advertiser_name": "myshopkozmetik",
+      "ad_text": "Ad myshopkozmetik First shown:08/14/2025 Last shown:08/17/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owABFAE9VJ9iaP4BAYAmN8bNIPDEaCywslqoi~tplv-noop.image?t=9276707c&x-expires=1756931302&x-signature=gRIrFEHvcvAU1fADNGqncuZH9eo%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/14/2025",
+      "last_shown": "08/17/2025",
+      "reach": "-",
+      "ad_id": "1840450445874194",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "myshopkozmetik",
+    "advertiser_id": null,
+    "ad_text": "Ad myshopkozmetik First shown:08/09/2025 Last shown:08/10/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owERf6IW2a6C0XDqBgfCFZAUCjErWRs7BkloSE~tplv-noop.image?t=9276707c&x-expires=1756931319&x-signature=bSqWkprthTW2VGVmABq7P42O8Wc%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:28:13.747128",
+      "advertiser_name": "myshopkozmetik",
+      "ad_text": "Ad myshopkozmetik First shown:08/09/2025 Last shown:08/10/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owERf6IW2a6C0XDqBgfCFZAUCjErWRs7BkloSE~tplv-noop.image?t=9276707c&x-expires=1756931319&x-signature=bSqWkprthTW2VGVmABq7P42O8Wc%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/09/2025",
+      "last_shown": "08/10/2025",
+      "reach": "-",
+      "ad_id": "1839975641704465",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:08/08/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYvXaEAmc9AMJwdBxYAIWiUY583GZaVzjZHAi"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:28:33.013761",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:08/08/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYvXaEAmc9AMJwdBxYAIWiUY583GZaVzjZHAi"
+      ],
+      "ad_url": "",
+      "first_shown": "08/08/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1839906763113538",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:08/15/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0cHa3AMlsTUxIJBWdzvAX45iAYvCrA6ZJiYE"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:28:33.059772",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:08/15/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0cHa3AMlsTUxIJBWdzvAX45iAYvCrA6ZJiYE"
+      ],
+      "ad_url": "",
+      "first_shown": "08/15/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840482191160321",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUuK2BDEiNi1AFFfBw62Eo0aoWmBWAItiI7AAC"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:28:33.103782",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUuK2BDEiNi1AFFfBw62Eo0aoWmBWAItiI7AAC"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163712470017",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8V1IBWqIAojPYABzAoicrCNOESmw7iQ02AxZf"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:28:33.147791",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8V1IBWqIAojPYABzAoicrCNOESmw7iQ02AxZf"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163637497889",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oIqQUAZmR1DQH8vtC1FEAEDfGbAbex2QI7fQgU"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:28:33.191801",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oIqQUAZmR1DQH8vtC1FEAEDfGbAbex2QI7fQgU"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163601048609",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_5_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osnDFCylTGg251ftIAZeEfCYgPbQRQAgJDdbA6"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 5,
+      "scraped_at": "2025-09-03T17:28:33.236811",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osnDFCylTGg251ftIAZeEfCYgPbQRQAgJDdbA6"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163499643937",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_6_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYAEAmA7XRiXEKYoazxUdvi2Ix2vLaayA4BYb"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 6,
+      "scraped_at": "2025-09-03T17:28:33.280821",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYAEAmA7XRiXEKYoazxUdvi2Ix2vLaayA4BYb"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163340400818",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_7_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osUaaE4YwmAIAiUa9LaUzaPiUmkiB0aAN22EA"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 7,
+      "scraped_at": "2025-09-03T17:28:33.325831",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/osUaaE4YwmAIAiUa9LaUzaPiUmkiB0aAN22EA"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163268945954",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_8_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYfGEtFbnID8frAAQ8sAf1EgRtQtbWrDgbFTNC"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 8,
+      "scraped_at": "2025-09-03T17:28:33.371842",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYfGEtFbnID8frAAQ8sAf1EgRtQtbWrDgbFTNC"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842163158773985",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_9_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYq2aXziBJmTAIaERAi0AmaBwEostAMcf0WB85"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 9,
+      "scraped_at": "2025-09-03T17:28:33.416851",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oYq2aXziBJmTAIaERAi0AmaBwEostAMcf0WB85"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842161970907250",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_10_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooQDMN52EWxAIlFgoS3A1oqfGJeNBADt2EBbEa"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 10,
+      "scraped_at": "2025-09-03T17:28:33.460861",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooQDMN52EWxAIlFgoS3A1oqfGJeNBADt2EBbEa"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842137804291202",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_11_1756909828",
+    "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owCWoEAIBoOE1Ao0wifgArAsIiPxN0ABYz6ml2"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 11,
+      "scraped_at": "2025-09-03T17:28:33.505872",
+      "advertiser_name": "DENIZBANK ANONIM SIRKETI",
+      "ad_text": "Ad DENIZBANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owCWoEAIBoOE1Ao0wifgArAsIiPxN0ABYz6ml2"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842137688066257",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/17/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMPS6oh8EM8hAF3mCBQEWgBI666kBfD8DIJfNY"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:28:43.605405",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/17/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMPS6oh8EM8hAF3mCBQEWgBI666kBfD8DIJfNY"
+      ],
+      "ad_url": "",
+      "first_shown": "08/17/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840678869035298",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMNuSLRGIQcIAKJlDkeXEczAbdeKRGgHDB5fCO"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:28:43.662417",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMNuSLRGIQcIAKJlDkeXEczAbdeKRGgHDB5fCO"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842146301611009",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/17/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0oS5SgkfAE2PrOxADNoeFBdHEBQFDDWoh6Ibx"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:28:43.718430",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/17/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0oS5SgkfAE2PrOxADNoeFBdHEBQFDDWoh6Ibx"
+      ],
+      "ad_url": "",
+      "first_shown": "08/17/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840678868891713",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEE6I0mavAAiBFBuBK4SezIwuimzQSWHKoiEAH"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:28:43.769442",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEE6I0mavAAiBFBuBK4SezIwuimzQSWHKoiEAH"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842146308136226",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEE6I0mavAAiBFBuBK4SezIwuimzQSWHKoiEAH"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:28:43.815452",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEE6I0mavAAiBFBuBK4SezIwuimzQSWHKoiEAH"
+      ],
+      "ad_url": "",
+      "first_shown": "08/31/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841956766874689",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_5_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/23/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooEZ47kgiP0iiVBIAwltAzASQY8CBuKVkMQCU"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 5,
+      "scraped_at": "2025-09-03T17:28:43.863463",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/23/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooEZ47kgiP0iiVBIAwltAzASQY8CBuKVkMQCU"
+      ],
+      "ad_url": "",
+      "first_shown": "08/23/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841283982475313",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_6_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/23/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oU6hxCGfIGFIednTeMAAQZUL4Ixfrqgptpt2AI"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 6,
+      "scraped_at": "2025-09-03T17:28:43.912474",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/23/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oU6hxCGfIGFIednTeMAAQZUL4Ixfrqgptpt2AI"
+      ],
+      "ad_url": "",
+      "first_shown": "08/23/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841221610608658",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_7_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/23/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMPS6oh8EM8hAF3mCBQEWgBI666kBfD8DIJfNY"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 7,
+      "scraped_at": "2025-09-03T17:28:43.959484",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/23/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMPS6oh8EM8hAF3mCBQEWgBI666kBfD8DIJfNY"
+      ],
+      "ad_url": "",
+      "first_shown": "08/23/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841221607029761",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_8_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/23/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0oS5SgkfAE2PrOxADNoeFBdHEBQFDDWoh6Ibx"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 8,
+      "scraped_at": "2025-09-03T17:28:44.007495",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/23/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0oS5SgkfAE2PrOxADNoeFBdHEBQFDDWoh6Ibx"
+      ],
+      "ad_url": "",
+      "first_shown": "08/23/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841221605594305",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_9_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEE6I0mavAAiBFBuBK4SezIwuimzQSWHKoiEAH"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 9,
+      "scraped_at": "2025-09-03T17:28:44.053506",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEE6I0mavAAiBFBuBK4SezIwuimzQSWHKoiEAH"
+      ],
+      "ad_url": "",
+      "first_shown": "08/31/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841956766867554",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_10_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/22/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owENmtIxt9EPO3D3BgfeF0AQBREuJW5bBScoJD"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 10,
+      "scraped_at": "2025-09-03T17:28:44.100516",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/22/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owENmtIxt9EPO3D3BgfeF0AQBREuJW5bBScoJD"
+      ],
+      "ad_url": "",
+      "first_shown": "08/22/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841119890814354",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_11_1756909828",
+    "advertiser_name": "ING BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/27/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0MMKM4gpAvKe7YA5AKks2Afwfh8tGZeYJKOde"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 11,
+      "scraped_at": "2025-09-03T17:28:44.154528",
+      "advertiser_name": "ING BANK ANONIM SIRKETI",
+      "ad_text": "Ad ING BANK ANONIM SIRKETI First shown:08/27/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0MMKM4gpAvKe7YA5AKks2Afwfh8tGZeYJKOde"
+      ],
+      "ad_url": "",
+      "first_shown": "08/27/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841594485165170",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "TURKISH ECONOMY BANK INC.",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oAyQTAQDoBStdv1FEk6aeAI5DBarftVg9NQFVU"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:28:54.206618",
+      "advertiser_name": "TURKISH ECONOMY BANK INC.",
+      "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oAyQTAQDoBStdv1FEk6aeAI5DBarftVg9NQFVU"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842071814955297",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "TURKISH ECONOMY BANK INC.",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owgmgLGfbGD7Tge38OIQprCACDNAwbn4TQegiJ"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:28:54.253628",
+      "advertiser_name": "TURKISH ECONOMY BANK INC.",
+      "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owgmgLGfbGD7Tge38OIQprCACDNAwbn4TQegiJ"
+      ],
+      "ad_url": "",
+      "first_shown": "08/26/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841448107938834",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "TURKISH ECONOMY BANK INC.",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owgmgLGfbGD7Tge38OIQprCACDNAwbn4TQegiJ"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:28:54.299638",
+      "advertiser_name": "TURKISH ECONOMY BANK INC.",
+      "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owgmgLGfbGD7Tge38OIQprCACDNAwbn4TQegiJ"
+      ],
+      "ad_url": "",
+      "first_shown": "08/26/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841448543545377",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "TURKISH ECONOMY BANK INC.",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owgmgLGfbGD7Tge38OIQprCACDNAwbn4TQegiJ"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:28:54.343648",
+      "advertiser_name": "TURKISH ECONOMY BANK INC.",
+      "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:08/26/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/owgmgLGfbGD7Tge38OIQprCACDNAwbn4TQegiJ"
+      ],
+      "ad_url": "",
+      "first_shown": "08/26/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841506572268769",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "lluuteb",
+    "advertiser_id": null,
+    "ad_text": "Ad lluuteb First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ok30kjSZwAYxDKx1wIikW6oB4fF1aYviABAa1I~tplv-noop.image?t=9276707c&x-expires=1756931503&x-signature=XQSkioq8mMui%2FKEEtwM%2FeFaZdmk%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:28:54.391658",
+      "advertiser_name": "lluuteb",
+      "ad_text": "Ad lluuteb First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ok30kjSZwAYxDKx1wIikW6oB4fF1aYviABAa1I~tplv-noop.image?t=9276707c&x-expires=1756931503&x-signature=XQSkioq8mMui%2FKEEtwM%2FeFaZdmk%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842085994674193",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_5_1756909828",
+    "advertiser_name": "TURKISH ECONOMY BANK INC.",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oAyQTAQDoBStdv1FEk6aeAI5DBarftVg9NQFVU"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 5,
+      "scraped_at": "2025-09-03T17:28:54.436668",
+      "advertiser_name": "TURKISH ECONOMY BANK INC.",
+      "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oAyQTAQDoBStdv1FEk6aeAI5DBarftVg9NQFVU"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842070253326354",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_6_1756909828",
+    "advertiser_name": "TURKISH ECONOMY BANK INC.",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oAyQTAQDoBStdv1FEk6aeAI5DBarftVg9NQFVU"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 6,
+      "scraped_at": "2025-09-03T17:28:54.487888",
+      "advertiser_name": "TURKISH ECONOMY BANK INC.",
+      "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oAyQTAQDoBStdv1FEk6aeAI5DBarftVg9NQFVU"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842070253326386",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_7_1756909828",
+    "advertiser_name": "TURKISH ECONOMY BANK INC.",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oAyQTAQDoBStdv1FEk6aeAI5DBarftVg9NQFVU"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 7,
+      "scraped_at": "2025-09-03T17:28:54.532898",
+      "advertiser_name": "TURKISH ECONOMY BANK INC.",
+      "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oAyQTAQDoBStdv1FEk6aeAI5DBarftVg9NQFVU"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842070253328530",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_8_1756909828",
+    "advertiser_name": "TURKISH ECONOMY BANK INC.",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oceX2A4oArADQnt7ZHAeh4vgc7evkFWfYlMTKf"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 8,
+      "scraped_at": "2025-09-03T17:28:54.597914",
+      "advertiser_name": "TURKISH ECONOMY BANK INC.",
+      "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oceX2A4oArADQnt7ZHAeh4vgc7evkFWfYlMTKf"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842070470622257",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_9_1756909828",
+    "advertiser_name": "TURKISH ECONOMY BANK INC.",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oceX2A4oArADQnt7ZHAeh4vgc7evkFWfYlMTKf"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 9,
+      "scraped_at": "2025-09-03T17:28:54.648925",
+      "advertiser_name": "TURKISH ECONOMY BANK INC.",
+      "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oceX2A4oArADQnt7ZHAeh4vgc7evkFWfYlMTKf"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842070761334945",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_10_1756909828",
+    "advertiser_name": "TURKISH ECONOMY BANK INC.",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oceX2A4oArADQnt7ZHAeh4vgc7evkFWfYlMTKf"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.944749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 10,
+      "scraped_at": "2025-09-03T17:28:54.699936",
+      "advertiser_name": "TURKISH ECONOMY BANK INC.",
+      "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oceX2A4oArADQnt7ZHAeh4vgc7evkFWfYlMTKf"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842070761335937",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_11_1756909828",
+    "advertiser_name": "TURKISH ECONOMY BANK INC.",
+    "advertiser_id": null,
+    "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oceX2A4oArADQnt7ZHAeh4vgc7evkFWfYlMTKf"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 11,
+      "scraped_at": "2025-09-03T17:28:54.750948",
+      "advertiser_name": "TURKISH ECONOMY BANK INC.",
+      "ad_text": "Ad TURKISH ECONOMY BANK INC. First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oceX2A4oArADQnt7ZHAeh4vgc7evkFWfYlMTKf"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842071419556033",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "veysell63__",
+    "advertiser_id": null,
+    "ad_text": "Ad veysell63__ First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/osKksAV9nUFLAEQottFfBBgFBfRY4IQPRzDtEr~tplv-noop.image?t=9276707c&x-expires=1756931363&x-signature=IbVjaWBCq1b9%2FvaHYpPHacrbxVs%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:29:13.145700",
+      "advertiser_name": "veysell63__",
+      "ad_text": "Ad veysell63__ First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/osKksAV9nUFLAEQottFfBBgFBfRY4IQPRzDtEr~tplv-noop.image?t=9276707c&x-expires=1756931363&x-signature=IbVjaWBCq1b9%2FvaHYpPHacrbxVs%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842128408473617",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "rruveydaplttt",
+    "advertiser_id": null,
+    "ad_text": "Ad rruveydaplttt First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/tos-alisg-i-photomode-sg/62ecfcad63984a28998817f52fac6a27~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445751&x-signature=wL0LUsuTQBDAEu5Ng99FvROzdf4%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:29:13.194709",
+      "advertiser_name": "rruveydaplttt",
+      "ad_text": "Ad rruveydaplttt First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/tos-alisg-i-photomode-sg/62ecfcad63984a28998817f52fac6a27~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445751&x-signature=wL0LUsuTQBDAEu5Ng99FvROzdf4%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842135153861714",
+      "media_type": "image"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "mrveyksll",
+    "advertiser_id": null,
+    "ad_text": "Ad mrveyksll First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/tos-alisg-i-photomode-sg/e88e5f94dc8549cfbad4b682ec954b74~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445751&x-signature=a7eA3kYzyBuiknLoKlKTKmVFQ18%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:29:13.238721",
+      "advertiser_name": "mrveyksll",
+      "ad_text": "Ad mrveyksll First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/tos-alisg-i-photomode-sg/e88e5f94dc8549cfbad4b682ec954b74~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445751&x-signature=a7eA3kYzyBuiknLoKlKTKmVFQ18%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842135819378706",
+      "media_type": "image"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "veysel_34651",
+    "advertiser_id": null,
+    "ad_text": "Ad veysel_34651 First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ogFjGIA2QoRDivI0gCreHoLVSaQygDe4HcAeE7~tplv-noop.image?t=9276707c&x-expires=1756931383&x-signature=bBJxUmHN7ecfe%2BHCHE%2FSa3COkOg%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:29:13.281730",
+      "advertiser_name": "veysel_34651",
+      "ad_text": "Ad veysel_34651 First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ogFjGIA2QoRDivI0gCreHoLVSaQygDe4HcAeE7~tplv-noop.image?t=9276707c&x-expires=1756931383&x-signature=bBJxUmHN7ecfe%2BHCHE%2FSa3COkOg%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842139158877201",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "veyselozdemir1613",
+    "advertiser_id": null,
+    "ad_text": "Ad veyselozdemir1613 First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p19-csp-adlib-site-sign-sg.ibyteimg.com/tos-alisg-i-photomode-sg/c95100af4cd14b9daa09493b7cdf7247~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445751&x-signature=bRsVvKRa%2B4l%2Fs6GpLOiZwO7zePs%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:29:13.332741",
+      "advertiser_name": "veyselozdemir1613",
+      "ad_text": "Ad veyselozdemir1613 First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p19-csp-adlib-site-sign-sg.ibyteimg.com/tos-alisg-i-photomode-sg/c95100af4cd14b9daa09493b7cdf7247~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445751&x-signature=bRsVvKRa%2B4l%2Fs6GpLOiZwO7zePs%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842140481027410",
+      "media_type": "image"
+    }
+  },
+  {
+    "ad_id": "selenium_5_1756909828",
+    "advertiser_name": "holistikturk",
+    "advertiser_id": null,
+    "ad_text": "Ad holistikturk First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p19-csp-adlib-site-sign-sg.ibyteimg.com/tos-alisg-i-photomode-sg/a238c76849e846e89e803440126a0cc2~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445751&x-signature=yZM3OOExcVx2toYuEvKDW6xiBRU%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 5,
+      "scraped_at": "2025-09-03T17:29:13.376751",
+      "advertiser_name": "holistikturk",
+      "ad_text": "Ad holistikturk First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p19-csp-adlib-site-sign-sg.ibyteimg.com/tos-alisg-i-photomode-sg/a238c76849e846e89e803440126a0cc2~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445751&x-signature=yZM3OOExcVx2toYuEvKDW6xiBRU%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842141674706450",
+      "media_type": "image"
+    }
+  },
+  {
+    "ad_id": "selenium_6_1756909828",
+    "advertiser_name": "memetveyso",
+    "advertiser_id": null,
+    "ad_text": "Ad memetveyso First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ocdIUQSvgAWIBzs6RFfoqoDBrNtouEEDegYKCt~tplv-noop.image?t=9276707c&x-expires=1756931366&x-signature=ynDeWNC8DnRNw1LmDTSAWXVRe78%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 6,
+      "scraped_at": "2025-09-03T17:29:13.418761",
+      "advertiser_name": "memetveyso",
+      "ad_text": "Ad memetveyso First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ocdIUQSvgAWIBzs6RFfoqoDBrNtouEEDegYKCt~tplv-noop.image?t=9276707c&x-expires=1756931366&x-signature=ynDeWNC8DnRNw1LmDTSAWXVRe78%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842143841619473",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_7_1756909828",
+    "advertiser_name": "veyselozata",
+    "advertiser_id": null,
+    "ad_text": "Ad veyselozata First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ooFCQuFUyoQkfbPtBDDAQotrVOogdBtCrrEofS~tplv-noop.image?t=9276707c&x-expires=1756931372&x-signature=JxsW27Z4o12pgeci%2Bd1gg%2Bibxqg%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 7,
+      "scraped_at": "2025-09-03T17:29:13.462771",
+      "advertiser_name": "veyselozata",
+      "ad_text": "Ad veyselozata First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ooFCQuFUyoQkfbPtBDDAQotrVOogdBtCrrEofS~tplv-noop.image?t=9276707c&x-expires=1756931372&x-signature=JxsW27Z4o12pgeci%2Bd1gg%2Bibxqg%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842144281050641",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_8_1756909828",
+    "advertiser_name": "veysell63__",
+    "advertiser_id": null,
+    "ad_text": "Ad veysell63__ First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oI2DwWBDjI0Liab4ZqfAI2cpO4kwv1CJAiAChI~tplv-noop.image?t=9276707c&x-expires=1756931372&x-signature=IQqP4iVtGWXSKsX%2FqKMZlmmqsdM%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 8,
+      "scraped_at": "2025-09-03T17:29:13.507781",
+      "advertiser_name": "veysell63__",
+      "ad_text": "Ad veysell63__ First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oI2DwWBDjI0Liab4ZqfAI2cpO4kwv1CJAiAChI~tplv-noop.image?t=9276707c&x-expires=1756931372&x-signature=IQqP4iVtGWXSKsX%2FqKMZlmmqsdM%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842145206051346",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_9_1756909828",
+    "advertiser_name": "aadaturk",
+    "advertiser_id": null,
+    "ad_text": "Ad aadaturk First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/okAiVb8zvXBELBzUiBkADa1BOTIYg9EPDAWE1~tplv-noop.image?t=9276707c&x-expires=1756931376&x-signature=FITTJ6b3IsumKQKJ9yqOfgReLC8%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 9,
+      "scraped_at": "2025-09-03T17:29:13.597801",
+      "advertiser_name": "aadaturk",
+      "ad_text": "Ad aadaturk First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/okAiVb8zvXBELBzUiBkADa1BOTIYg9EPDAWE1~tplv-noop.image?t=9276707c&x-expires=1756931376&x-signature=FITTJ6b3IsumKQKJ9yqOfgReLC8%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842065406445586",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_10_1756909828",
+    "advertiser_name": "veysel_kurkcu",
+    "advertiser_id": null,
+    "ad_text": "Ad veysel_kurkcu First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ocJA70ZzAn5Isj4RjdqCD1fd6IQoQCL1uetaeG~tplv-noop.image?t=9276707c&x-expires=1756931399&x-signature=gZKSDzM%2BrTz2DkZE2Im3jONPMFc%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 10,
+      "scraped_at": "2025-09-03T17:29:13.654813",
+      "advertiser_name": "veysel_kurkcu",
+      "ad_text": "Ad veysel_kurkcu First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ocJA70ZzAn5Isj4RjdqCD1fd6IQoQCL1uetaeG~tplv-noop.image?t=9276707c&x-expires=1756931399&x-signature=gZKSDzM%2BrTz2DkZE2Im3jONPMFc%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842068091725841",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_11_1756909828",
+    "advertiser_name": "veysi.lk4",
+    "advertiser_id": null,
+    "ad_text": "Ad veysi.lk4 First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oUAfIToDRC6mK1PFEilcKAQWIDyyfZKAvjQZev~tplv-noop.image?t=9276707c&x-expires=1756931456&x-signature=Inn0xbdLre3WOiiQVa5%2F9gxZBKc%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 11,
+      "scraped_at": "2025-09-03T17:29:13.723829",
+      "advertiser_name": "veysi.lk4",
+      "ad_text": "Ad veysi.lk4 First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oUAfIToDRC6mK1PFEilcKAQWIDyyfZKAvjQZev~tplv-noop.image?t=9276707c&x-expires=1756931456&x-signature=Inn0xbdLre3WOiiQVa5%2F9gxZBKc%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/31/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842004032000082",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "aysun_atalar6155",
+    "advertiser_id": null,
+    "ad_text": "Ad aysun_atalar6155 First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/osAlrKL1OkAjBIBN9zPBa6NIEiYSoiBI5XXI9~tplv-noop.image?t=9276707c&x-expires=1756931381&x-signature=InLd%2FLbTcMnqpYSn18ZD%2BEKypJU%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:29:33.284246",
+      "advertiser_name": "aysun_atalar6155",
+      "ad_text": "Ad aysun_atalar6155 First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/osAlrKL1OkAjBIBN9zPBa6NIEiYSoiBI5XXI9~tplv-noop.image?t=9276707c&x-expires=1756931381&x-signature=InLd%2FLbTcMnqpYSn18ZD%2BEKypJU%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842182051045394",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "ahmet_hayk61",
+    "advertiser_id": null,
+    "ad_text": "Ad ahmet_hayk61 First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owEE2FoxrBVaBrDCIfrXdUBgEbtVAtedKCVARb~tplv-noop.image?t=9276707c&x-expires=1756931391&x-signature=Fc2KHR%2BkIcLP16xMR4dkDwBNpTE%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:29:33.336258",
+      "advertiser_name": "ahmet_hayk61",
+      "ad_text": "Ad ahmet_hayk61 First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owEE2FoxrBVaBrDCIfrXdUBgEbtVAtedKCVARb~tplv-noop.image?t=9276707c&x-expires=1756931391&x-signature=Fc2KHR%2BkIcLP16xMR4dkDwBNpTE%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842143341600146",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/18/2025 Last shown:08/31/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owj7eQtRGQpACQ3eZeIBxTGi2YwLIG9CFA4fDj~tplv-noop.image?t=9276707c&x-expires=1756931390&x-signature=q%2B%2BILDBth7pJ%2BEYxhnluUtPDXhs%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "para"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:29:33.379268",
+      "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+      "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/18/2025 Last shown:08/31/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owj7eQtRGQpACQ3eZeIBxTGi2YwLIG9CFA4fDj~tplv-noop.image?t=9276707c&x-expires=1756931390&x-signature=q%2B%2BILDBth7pJ%2BEYxhnluUtPDXhs%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/18/2025",
+      "last_shown": "08/31/2025",
+      "reach": "-",
+      "ad_id": "1840804488065138",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/23/2025 Last shown:08/31/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ocqOV1JIyIQ0CXBAi0CwK4B3iwfCAAIamIuoxw~tplv-noop.image?t=9276707c&x-expires=1756931385&x-signature=jVbNY8Kiu0P%2FWuf9MKFevOVx8ZM%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "para"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:29:33.424277",
+      "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+      "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/23/2025 Last shown:08/31/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ocqOV1JIyIQ0CXBAi0CwK4B3iwfCAAIamIuoxw~tplv-noop.image?t=9276707c&x-expires=1756931385&x-signature=jVbNY8Kiu0P%2FWuf9MKFevOVx8ZM%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/23/2025",
+      "last_shown": "08/31/2025",
+      "reach": "-",
+      "ad_id": "1841272966525058",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/13/2025 Last shown:08/31/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocEUVcIu4i6AauYYBE8m3yhJE9iAtZxyAaAPz"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "para"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:29:33.474289",
+      "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+      "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/13/2025 Last shown:08/31/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocEUVcIu4i6AauYYBE8m3yhJE9iAtZxyAaAPz"
+      ],
+      "ad_url": "",
+      "first_shown": "08/13/2025",
+      "last_shown": "08/31/2025",
+      "reach": "-",
+      "ad_id": "1840349021838353",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_5_1756909828",
+    "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/13/2025 Last shown:08/31/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0MhdLlGIgUQAeOcT5eKge3Abt1NRGg5DBzsCO"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "para"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 5,
+      "scraped_at": "2025-09-03T17:29:33.522300",
+      "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+      "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/13/2025 Last shown:08/31/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o0MhdLlGIgUQAeOcT5eKge3Abt1NRGg5DBzsCO"
+      ],
+      "ad_url": "",
+      "first_shown": "08/13/2025",
+      "last_shown": "08/31/2025",
+      "reach": "-",
+      "ad_id": "1840348576684034",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_6_1756909828",
+    "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/13/2025 Last shown:08/31/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMWDFBCTJDf3PiwcEA8BEfwRQnnEoIAaBBxNgI"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "para"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 6,
+      "scraped_at": "2025-09-03T17:29:33.570311",
+      "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+      "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/13/2025 Last shown:08/31/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oMWDFBCTJDf3PiwcEA8BEfwRQnnEoIAaBBxNgI"
+      ],
+      "ad_url": "",
+      "first_shown": "08/13/2025",
+      "last_shown": "08/31/2025",
+      "reach": "-",
+      "ad_id": "1840348244873378",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_7_1756909828",
+    "advertiser_name": "aysun_atalar6155",
+    "advertiser_id": null,
+    "ad_text": "Ad aysun_atalar6155 First shown:08/27/2025 Last shown:08/28/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o4oGefW5IS2FQtLARORAFbteKyjjCVIXvQDxHU~tplv-noop.image?t=9276707c&x-expires=1756931379&x-signature=ZucH0O80b%2FbrShCO2R0%2FwWSCwX4%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 7,
+      "scraped_at": "2025-09-03T17:29:33.614320",
+      "advertiser_name": "aysun_atalar6155",
+      "ad_text": "Ad aysun_atalar6155 First shown:08/27/2025 Last shown:08/28/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o4oGefW5IS2FQtLARORAFbteKyjjCVIXvQDxHU~tplv-noop.image?t=9276707c&x-expires=1756931379&x-signature=ZucH0O80b%2FbrShCO2R0%2FwWSCwX4%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/27/2025",
+      "last_shown": "08/28/2025",
+      "reach": "-",
+      "ad_id": "1841644700840210",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_8_1756909828",
+    "advertiser_name": "wexs.pm",
+    "advertiser_id": null,
+    "ad_text": "Ad wexs.pm First shown:08/27/2025 Last shown:08/28/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oEqQcgZeQfCIoGXCTe0M8DIjtjAXEinAXygRgO~tplv-noop.image?t=9276707c&x-expires=1756931434&x-signature=0UqoAckjhzgkt%2FBIf%2F6OtQ6NYWM%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 8,
+      "scraped_at": "2025-09-03T17:29:33.673334",
+      "advertiser_name": "wexs.pm",
+      "ad_text": "Ad wexs.pm First shown:08/27/2025 Last shown:08/28/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oEqQcgZeQfCIoGXCTe0M8DIjtjAXEinAXygRgO~tplv-noop.image?t=9276707c&x-expires=1756931434&x-signature=0UqoAckjhzgkt%2FBIf%2F6OtQ6NYWM%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/27/2025",
+      "last_shown": "08/28/2025",
+      "reach": "-",
+      "ad_id": "1841650215974929",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_9_1756909828",
+    "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/21/2025 Last shown:08/27/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p19-csp-adlib-site-sign-sg.ibyteimg.com/tos-maliva-i-photomode-us/4e2aa78599d949909c23ad736494de40~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445768&x-signature=InsfaYhWMiH3SVhrQ5IBpjKgXoM%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "para"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 9,
+      "scraped_at": "2025-09-03T17:29:33.721344",
+      "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+      "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/21/2025 Last shown:08/27/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p19-csp-adlib-site-sign-sg.ibyteimg.com/tos-maliva-i-photomode-us/4e2aa78599d949909c23ad736494de40~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445768&x-signature=InsfaYhWMiH3SVhrQ5IBpjKgXoM%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/21/2025",
+      "last_shown": "08/27/2025",
+      "reach": "-",
+      "ad_id": "1841074940090402",
+      "media_type": "image"
+    }
+  },
+  {
+    "ad_id": "selenium_10_1756909828",
+    "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/20/2025 Last shown:08/27/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/tos-alisg-i-photomode-sg/52ae5fae519f4ded850f8d872777b78f~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445768&x-signature=Sb6S%2B1y8DeeEPVg0NXev74dYpA8%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "para"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 10,
+      "scraped_at": "2025-09-03T17:29:33.762354",
+      "advertiser_name": "PAPARA ELEKTRONIK PARA ANONIM SIRKETI",
+      "ad_text": "Ad PAPARA ELEKTRONIK PARA ANONIM SIRKETI First shown:08/20/2025 Last shown:08/27/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/tos-alisg-i-photomode-sg/52ae5fae519f4ded850f8d872777b78f~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445768&x-signature=Sb6S%2B1y8DeeEPVg0NXev74dYpA8%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/20/2025",
+      "last_shown": "08/27/2025",
+      "reach": "-",
+      "ad_id": "1840982170741777",
+      "media_type": "image"
+    }
+  },
+  {
+    "ad_id": "selenium_11_1756909828",
+    "advertiser_name": "Unknown",
+    "advertiser_id": null,
+    "ad_text": "Ad (Name unavailable) First shown:08/26/2025 Last shown:08/27/2025 Unique users seen:- You are not able to view this ad as it was removed from TikTok due to a violation of TikTok's terms.",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 11,
+      "scraped_at": "2025-09-03T17:29:33.805364",
+      "advertiser_name": "Unknown",
+      "ad_text": "Ad (Name unavailable) First shown:08/26/2025 Last shown:08/27/2025 Unique users seen:- You are not able to view this ad as it was removed from TikTok due to a violation of TikTok's terms.",
+      "media_urls": [],
+      "ad_url": "",
+      "first_shown": "08/26/2025",
+      "last_shown": "08/27/2025",
+      "reach": "-",
+      "ad_id": "1841547208961042"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/21/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4eRNfbqGbGTOmsI2yLRZEhkDOWeIACLZwBgMA"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:30:03.279770",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/21/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4eRNfbqGbGTOmsI2yLRZEhkDOWeIACLZwBgMA"
+      ],
+      "ad_url": "",
+      "first_shown": "08/21/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841048988605586",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/20/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4mbUpIh5MJ2ESg0Gf5JvUAEGeAkLDBkfCRQXI"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:30:03.325782",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/20/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4mbUpIh5MJ2ESg0Gf5JvUAEGeAkLDBkfCRQXI"
+      ],
+      "ad_url": "",
+      "first_shown": "08/20/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841005065958417",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooCnHEgGQCKoHqZLIDuSeAIiGD15eOAAebQqQp"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:30:03.369792",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooCnHEgGQCKoHqZLIDuSeAIiGD15eOAAebQqQp"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842145842838642",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooCnHEgGQCKoHqZLIDuSeAIiGD15eOAAebQqQp"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:30:03.413801",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooCnHEgGQCKoHqZLIDuSeAIiGD15eOAAebQqQp"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842121764864081",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocDRbifoCStzoFbD7C4BAIQfEGIBOEigNZYFXS"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:30:03.456812",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocDRbifoCStzoFbD7C4BAIQfEGIBOEigNZYFXS"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842098576914449",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_5_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oQEkJu2MIGAf9QJNHgzAJ4lBAFFfnfmDf4tIao"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 5,
+      "scraped_at": "2025-09-03T17:30:03.501821",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oQEkJu2MIGAf9QJNHgzAJ4lBAFFfnfmDf4tIao"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842009139217410",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_6_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEXIDfgBDEHQIdFSnAogFBfiENNhAPEtgBPskF"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 6,
+      "scraped_at": "2025-09-03T17:30:03.545831",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oEXIDfgBDEHQIdFSnAogFBfiENNhAPEtgBPskF"
+      ],
+      "ad_url": "",
+      "first_shown": "08/31/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842009139182626",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_7_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooCnHEgGQCKoHqZLIDuSeAIiGD15eOAAebQqQp"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 7,
+      "scraped_at": "2025-09-03T17:30:03.588841",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ooCnHEgGQCKoHqZLIDuSeAIiGD15eOAAebQqQp"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842009134374017",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_8_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocDRbifoCStzoFbD7C4BAIQfEGIBOEigNZYFXS"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 8,
+      "scraped_at": "2025-09-03T17:30:03.648854",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocDRbifoCStzoFbD7C4BAIQfEGIBOEigNZYFXS"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842009121573090",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_9_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocAYGjMr2zJx1E17AXIzadiBB3iS4xLUiSPAb"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 9,
+      "scraped_at": "2025-09-03T17:30:03.692864",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/ocAYGjMr2zJx1E17AXIzadiBB3iS4xLUiSPAb"
+      ],
+      "ad_url": "",
+      "first_shown": "08/31/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842009110253665",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_10_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/22/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4mbUpIh5MJ2ESg0Gf5JvUAEGeAkLDBkfCRQXI"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 10,
+      "scraped_at": "2025-09-03T17:30:03.736875",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/22/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o4mbUpIh5MJ2ESg0Gf5JvUAEGeAkLDBkfCRQXI"
+      ],
+      "ad_url": "",
+      "first_shown": "08/22/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841144202174785",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_11_1756909828",
+    "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oQEkJu2MIGAf9QJNHgzAJ4lBAFFfnfmDf4tIao"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 11,
+      "scraped_at": "2025-09-03T17:30:03.780885",
+      "advertiser_name": "SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI",
+      "ad_text": "Ad SAHIBINDEN BILGI TEKNOLOJILERI PAZARLAMA VE TICARET ANONIM SIRKETI First shown:08/31/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oQEkJu2MIGAf9QJNHgzAJ4lBAFFfnfmDf4tIao"
+      ],
+      "ad_url": "",
+      "first_shown": "08/31/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1841931131981921",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "kars.ziraat.odas",
+    "advertiser_id": null,
+    "ad_text": "Ad kars.ziraat.odas First shown:08/04/2025 Last shown:08/05/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oweVE7eceiyMQAIx7WTLXRpGFkrOLQGX3fQAFG~tplv-noop.image?t=9276707c&x-expires=1756931474&x-signature=Zq3hRD11V9%2F%2FQx3CjWG1PTaZ%2F5k%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": false,
+    "banking_keywords_found": [],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:30:12.290939",
+      "advertiser_name": "kars.ziraat.odas",
+      "ad_text": "Ad kars.ziraat.odas First shown:08/04/2025 Last shown:08/05/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oweVE7eceiyMQAIx7WTLXRpGFkrOLQGX3fQAFG~tplv-noop.image?t=9276707c&x-expires=1756931474&x-signature=Zq3hRD11V9%2F%2FQx3CjWG1PTaZ%2F5k%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "08/04/2025",
+      "last_shown": "08/05/2025",
+      "reach": "-",
+      "ad_id": "1839538636935250",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_0_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:08/19/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oggGOQLdHqR7GCQP03NDGVxAIZgfDbfQ8AeLbs"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 0,
+      "scraped_at": "2025-09-03T17:30:21.542096",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:08/19/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oggGOQLdHqR7GCQP03NDGVxAIZgfDbfQ8AeLbs"
+      ],
+      "ad_url": "",
+      "first_shown": "08/19/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840877752692018",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_1_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:08/18/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUeSQ4QNpDotnWDOB9gFx3k9IfvCmdEBjB6y9A"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 1,
+      "scraped_at": "2025-09-03T17:30:21.594107",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:08/18/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oUeSQ4QNpDotnWDOB9gFx3k9IfvCmdEBjB6y9A"
+      ],
+      "ad_url": "",
+      "first_shown": "08/18/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1840772348603474",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_2_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oY4DBWUQsQA7zfsdH8tcbfKEugElwBDpoI1NjF"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 2,
+      "scraped_at": "2025-09-03T17:30:21.658122",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oY4DBWUQsQA7zfsdH8tcbfKEugElwBDpoI1NjF"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842188759609522",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_3_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oIUo5BiIxvFz65Iam5DuJAAViiY8mYAAwE6Ai"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 3,
+      "scraped_at": "2025-09-03T17:30:21.709133",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oIUo5BiIxvFz65Iam5DuJAAViiY8mYAAwE6Ai"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842188759603538",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_4_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8APJ4oaATcl7T3yB0EAsAAa2INUi6rBYUzSi"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.945749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 4,
+      "scraped_at": "2025-09-03T17:30:21.760145",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8APJ4oaATcl7T3yB0EAsAAa2INUi6rBYUzSi"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842188759459057",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_5_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oggGOQLdHqR7GCQP03NDGVxAIZgfDbfQ8AeLbs"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.946749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 5,
+      "scraped_at": "2025-09-03T17:30:21.812157",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/oggGOQLdHqR7GCQP03NDGVxAIZgfDbfQ8AeLbs"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842188209702242",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_6_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/v0201/95d5762d1e76f60611301f7cbeabc9dc~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445819&x-signature=2gPgFUXe0bgqt5pMJrSYu%2FonfHs%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.946749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 6,
+      "scraped_at": "2025-09-03T17:30:21.864169",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p16-csp-adlib-site-sign-sg.ibyteimg.com/v0201/95d5762d1e76f60611301f7cbeabc9dc~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445819&x-signature=2gPgFUXe0bgqt5pMJrSYu%2FonfHs%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842188208224322",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_7_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p19-csp-adlib-site-sign-sg.ibyteimg.com/v0201/82080c2324342a67d310f1fec823ed19~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445819&x-signature=doQe0oc2AKAK92yUTr16CJ7cJas%3D"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.946749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 7,
+      "scraped_at": "2025-09-03T17:30:21.916180",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/02/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p19-csp-adlib-site-sign-sg.ibyteimg.com/v0201/82080c2324342a67d310f1fec823ed19~tplv-xg5h56rn01-webp-75:540:960.webp?lk3s=0c75dd76&x-expires=1788445819&x-signature=doQe0oc2AKAK92yUTr16CJ7cJas%3D"
+      ],
+      "ad_url": "",
+      "first_shown": "09/02/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842188208217122",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_8_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/d7b246ba577e4fc28cc61032e7da71be_1720616893"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.946749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 8,
+      "scraped_at": "2025-09-03T17:30:21.972193",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/d7b246ba577e4fc28cc61032e7da71be_1720616893"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842040726833537",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_9_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8EkbNA4iAWTSV0sBYTQZNliEB3A12LxPUI0z"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.946749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 9,
+      "scraped_at": "2025-09-03T17:30:22.036207",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8EkbNA4iAWTSV0sBYTQZNliEB3A12LxPUI0z"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842040726821249",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_10_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/d7b246ba577e4fc28cc61032e7da71be_1720616893"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.946749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 10,
+      "scraped_at": "2025-09-03T17:30:22.090220",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/d7b246ba577e4fc28cc61032e7da71be_1720616893"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842040723673090",
+      "media_type": "video"
+    }
+  },
+  {
+    "ad_id": "selenium_11_1756909828",
+    "advertiser_name": "QNB BANK ANONIM SIRKETI",
+    "advertiser_id": null,
+    "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "text",
+    "media_urls": [
+      "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8EkbNA4iAWTSV0sBYTQZNliEB3A12LxPUI0z"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "bank"
+    ],
+    "scraped_at": "2025-09-03 17:30:28.946749",
+    "source_url": "",
+    "raw_data": {
+      "scrape_index": 11,
+      "scraped_at": "2025-09-03T17:30:22.137230",
+      "advertiser_name": "QNB BANK ANONIM SIRKETI",
+      "ad_text": "Ad QNB BANK ANONIM SIRKETI First shown:09/01/2025 Last shown:09/02/2025 Unique users seen:-",
+      "media_urls": [
+        "https://p21-ad-sg.ibyteimg.com/origin/tos-alisg-p-0051c001-sg/o8EkbNA4iAWTSV0sBYTQZNliEB3A12LxPUI0z"
+      ],
+      "ad_url": "",
+      "first_shown": "09/01/2025",
+      "last_shown": "09/02/2025",
+      "reach": "-",
+      "ad_id": "1842040723658753",
+      "media_type": "video"
+    }
+  }
+]

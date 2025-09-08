@@ -1,0 +1,118 @@
+[
+  {
+    "ad_id": "mock_ad_1",
+    "advertiser_name": "Garanti BBVA",
+    "advertiser_id": null,
+    "ad_text": "En uygun kredi faiz oranları burada! Hemen başvur. Garanti BBVA ile hayallerinizi gerçekleştirin.",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "video",
+    "media_urls": [
+      "https://example.com/video1.mp4"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "kredi"
+    ],
+    "scraped_at": "2025-09-03 16:18:58.688969",
+    "source_url": null,
+    "raw_data": {
+      "id": "mock_ad_1",
+      "advertiser": "Garanti BBVA",
+      "text": "En uygun kredi faiz oranları burada! Hemen başvur. Garanti BBVA ile hayallerinizi gerçekleştirin.",
+      "media_type": "video",
+      "media_url": "https://example.com/video1.mp4",
+      "created_time": "2025-09-01"
+    }
+  },
+  {
+    "ad_id": "mock_ad_2",
+    "advertiser_name": "İş Bankası",
+    "advertiser_id": null,
+    "ad_text": "Dijital bankacılık ile hayat daha kolay. Maximum kart avantajları. Online başvuru yapın.",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "image",
+    "media_urls": [
+      "https://example.com/image1.jpg"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "banka",
+      "bank",
+      "kart"
+    ],
+    "scraped_at": "2025-09-03 16:18:58.994831",
+    "source_url": null,
+    "raw_data": {
+      "id": "mock_ad_2",
+      "advertiser": "İş Bankası",
+      "text": "Dijital bankacılık ile hayat daha kolay. Maximum kart avantajları. Online başvuru yapın.",
+      "media_type": "image",
+      "media_url": "https://example.com/image1.jpg",
+      "created_time": "2025-09-02"
+    }
+  },
+  {
+    "ad_id": "mock_ad_3",
+    "advertiser_name": "Yapı Kredi",
+    "advertiser_id": null,
+    "ad_text": "Kredi kartı kampanyaları! World kart ile dünyayı keşfedin. Puanlarınızı biriktirin.",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "image",
+    "media_urls": [
+      "https://example.com/image2.jpg"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "kredi",
+      "kart"
+    ],
+    "scraped_at": "2025-09-03 16:18:59.099952",
+    "source_url": null,
+    "raw_data": {
+      "id": "mock_ad_3",
+      "advertiser": "Yapı Kredi",
+      "text": "Kredi kartı kampanyaları! World kart ile dünyayı keşfedin. Puanlarınızı biriktirin.",
+      "media_type": "image",
+      "media_url": "https://example.com/image2.jpg",
+      "created_time": "2025-09-03"
+    }
+  },
+  {
+    "ad_id": "mock_ad_4",
+    "advertiser_name": "Papara",
+    "advertiser_id": null,
+    "ad_text": "Dijital cüzdan ile kolay ödeme! Papara Card ile her yerde alışveriş yapın.",
+    "headline": null,
+    "description": null,
+    "call_to_action": null,
+    "media_type": "video",
+    "media_urls": [
+      "https://example.com/video2.mp4"
+    ],
+    "thumbnail_url": null,
+    "is_banking_ad": true,
+    "banking_keywords_found": [
+      "ödeme",
+      "para"
+    ],
+    "scraped_at": "2025-09-03 16:18:59.589446",
+    "source_url": null,
+    "raw_data": {
+      "id": "mock_ad_4",
+      "advertiser": "Papara",
+      "text": "Dijital cüzdan ile kolay ödeme! Papara Card ile her yerde alışveriş yapın.",
+      "media_type": "video",
+      "media_url": "https://example.com/video2.mp4",
+      "created_time": "2025-08-30"
+    }
+  }
+]
