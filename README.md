@@ -56,9 +56,27 @@ Server `http://localhost:8000` adresinde çalışacaktır.
 
 ### API Endpoints
 
+- `GET /` - Kısa bilgi ve endpoint listesi
 - `GET /health` - Sağlık kontrolü
-- `POST /scrape` - Reklam toplama işlemi başlatır
-- `GET /results` - Sonuçları getirir
+- `GET /test-selenium` - Selenium + Chrome hızlı test
+- `GET /turkish-banks` - Türk banka/fintek listesi
+- `GET /test-scrape` - Hızlı deneme scraping
+- `POST /scrape-tiktok` - Reklam toplama işlemi (N8N uyumlu: array döner)
+
+FastAPI’nin otomatik dokümantasyonu:
+
+- Swagger UI: `GET /docs`
+- OpenAPI JSON: `GET /openapi.json`
+
+## 📚 Dokümantasyon
+
+Daha detaylı (örnekli) dokümanlar `docs/` klasöründe:
+
+- `docs/README.md` (başlangıç noktası)
+- `docs/API.md` (FastAPI uçları)
+- `docs/PYTHON_API.md` (Python public API)
+- `docs/CONFIG.md` (.env ve ortam değişkenleri)
+- `docs/CLI.md` (CLI kullanım örnekleri)
 
 ## 📁 Proje Yapısı
 
