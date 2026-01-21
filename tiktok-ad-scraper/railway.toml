@@ -1,0 +1,11 @@
+[build]
+builder = "dockerfile"
+
+[deploy]
+startCommand = "python fastapi_server.py"
+healthcheckPath = "/health"
+healthcheckTimeout = 100
+restartPolicyType = "on_failure"
+
+[env]
+PYTHONUNBUFFERED = "1"

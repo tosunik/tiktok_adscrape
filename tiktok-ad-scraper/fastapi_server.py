@@ -1,23 +1,3 @@
-print("=== STARTING DEBUG ===")
-try:
-    print("Basic imports...")
-    from fastapi import FastAPI
-    print("FastAPI imported successfully")
-    
-    print("Testing Selenium import...")
-    from selenium import webdriver
-    print("Selenium imported successfully")
-    
-    print("Testing Chrome...")
-    from selenium.webdriver.chrome.options import Options
-    print("Chrome options imported successfully")
-    
-except Exception as e:
-    print(f"IMPORT ERROR: {e}")
-    import traceback
-    traceback.print_exc()
-
-print("=== DEBUG COMPLETE ===")
 #!/usr/bin/env python3
 """
 FastAPI server for TikTok scraper - N8N integration
@@ -37,18 +17,27 @@ import os
 from pathlib import Path
 import traceback
 
-# Add project paths
+# Add project paths - Railway compatible
 current_dir = Path(__file__).parent
+# Add current directory and src directory to path
 sys.path.insert(0, str(current_dir))
-sys.path.insert(0, str(current_dir / "src"))
+if (current_dir / "src").exists():
+    sys.path.insert(0, str(current_dir / "src"))
 
 try:
     from src.scraper.tiktok_scraper import TikTokAdScraper
     from src.config.settings import settings
     logger.info("Successfully imported project modules")
+    print("✅ Successfully imported project modules")
 except ImportError as e:
-    logger.error(f"Import error: {e}")
+    error_msg = f"Import error: {e}"
+    logger.error(error_msg)
     logger.error("Make sure you're running from the project root directory")
+    print(f"❌ {error_msg}")
+    print(f"Current directory: {Path.cwd()}")
+    print(f"Python path: {sys.path}")
+    import traceback
+    traceback.print_exc()
     sys.exit(1)
 
 app = FastAPI(
@@ -98,6 +87,7 @@ async def root():
         "status": "running",
         "endpoints": ["/health", "/scrape-tiktok", "/test-scrape", "/turkish-banks"]
     }
+
 @app.get("/test-selenium")
 async def test_selenium():
     try:
@@ -124,10 +114,15 @@ async def health_check():
             "banking_keywords_count": len(settings.banking_keywords)
         }
     except Exception as e:
-        return {
+        import traceback
+        error_detail = {
             "status": "unhealthy",
-            "error": str(e)
+            "error": str(e),
+            "error_type": type(e).__name__,
+            "traceback": traceback.format_exc()
         }
+        logger.error(f"Health check failed: {error_detail}")
+        return error_detail
 
 @app.post("/scrape-tiktok")
 async def scrape_tiktok_ads(request: ScrapeRequest):
@@ -246,24 +241,33 @@ async def test_scrape():
         }
 
 if __name__ == "__main__":
-    # ... diğer kodlar ...
-    
-    port = int(os.getenv("PORT", 8000))
-    
-    uvicorn.run(
-        app,
-        host="0.0.0.0",
-        port=port,
-        log_level="info"
-    )
-    
-    # Setup logging
+    # Setup logging - ensure logs directory exists
+    logs_dir = Path("logs")
+    logs_dir.mkdir(exist_ok=True)
     logger.add("logs/fastapi.log", rotation="1 day", retention="30 days")
-    logger.info("Starting TikTok Banking Intelligence FastAPI server...")
     
-    uvicorn.run(
-        app,
-        host="0.0.0.0",
-        port=8000,
-        log_level="info"
-    )
+    # Print startup info to stdout (Railway logs)
+    print("=" * 50)
+    print("Starting TikTok Banking Intelligence FastAPI server...")
+    print(f"Current directory: {Path.cwd()}")
+    print(f"Python path: {sys.path}")
+    print("=" * 50)
+    
+    # Get port from environment (Railway sets PORT)
+    port = int(os.getenv("PORT", 8000))
+    logger.info(f"Starting TikTok Banking Intelligence FastAPI server on port {port}...")
+    print(f"Starting server on port {port}...")
+    
+    try:
+        uvicorn.run(
+            app,
+            host="0.0.0.0",
+            port=port,
+            log_level="info"
+        )
+    except Exception as e:
+        logger.error(f"Failed to start server: {e}")
+        logger.error(traceback.format_exc())
+        print(f"ERROR: Failed to start server: {e}")
+        print(traceback.format_exc())
+        raise

@@ -17,10 +17,15 @@ RUN apt-get update && apt-get install -y \
 WORKDIR /app
 
 COPY requirements.txt .
-RUN pip install -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+# Create logs directory
+RUN mkdir -p logs
+
 EXPOSE 8000
 
-CMD ["sh", "-c", "uvicorn fastapi_server:app --host 0.0.0.0 --port ${PORT:-8000}"]
+# Railway will use startCommand from railway.json
+# But we provide a fallback CMD that works
+CMD python fastapi_server.py
