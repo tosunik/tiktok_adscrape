@@ -2,6 +2,8 @@
 
 Bu proje, TikTok platformunda bankacılık ve finans sektörüne ait reklamları otomatik olarak toplayan bir Python uygulamasıdır. N8N workflow'ları ile entegre çalışabilir.
 
+Bu satır GitHub push testi içindir. Herhangi bir işlevi değiştirmez.
+
 ## 🚀 Özellikler
 
 - **TikTok Reklam Toplama**: Belirtilen anahtar kelimelerle TikTok reklamlarını otomatik toplar
